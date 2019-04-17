@@ -56,7 +56,7 @@ def tokenize(s):
 def preprocess(s, lowercase=True):
     tokens = tknzr.tokenize(s)
     if lowercase:
-        tokens = [token if emoticon_re.search(token) else stemmer.stem(token.lower()) for token in tokens]
+        tokens = [token if emoticon_re.search(token) else token.lower() for token in tokens]
     return tokens
 
 def etiqueta(tokens):
@@ -67,13 +67,14 @@ def extraiFeatures(frase,dicionario):
     features = {}
     for word in dicionario:
         try:
-            features["{}".format(word.encode('utf-8'))] = (word in frase)
+            if word in frase:
+                features["{}".format(word.encode('utf-8'))] = True
         except Exception as inst:
             print(inst)
             continue
     return features
 
-dataset = arff.load('OffComBR3.arff')
+dataset = arff.load('OffComBR2.arff')
 stemmer=nltk.stem.RSLPStemmer()
 # uni_file = open('uniPreProcessado.txt', 'w')
 # big_file = open('bigPreProcessado.txt', 'w')
@@ -81,12 +82,30 @@ todosUnigramas = []
 todosBigramas = []
 listaDosUnigramas = []
 listaDosBigramas = []
+posUnigramas = []
+negUnigramas = []
+posBigramas = []
+negBigramas = []
+lun = []
+lup = []
+lbp = []
+lbn = []
 
 for x in dataset:
     unigramas = [term for term in preprocess(x[1].lower().encode('utf-8')) if term not in stop and not term.startswith(('#', '@'))]
     bigrama = list(nltk.bigrams(unigramas))
     bigramas = [' '.join(item) for item in bigrama]
     if(len(unigramas) > 0):
+        if(x[0] == 'yes'):
+            lun.append({"label": x[0], "dado": unigramas})
+            lbn.append({"label": x[0], "dado": bigramas})
+            negUnigramas.extend(unigramas)
+            negBigramas.extend(bigramas)
+        else:
+            posUnigramas.extend(unigramas)
+            posBigramas.extend(bigramas)
+            lup.append({"label": x[0], "dado": unigramas})
+            lbp.append({"label": x[0], "dado": bigramas})
         todosUnigramas.extend(unigramas)
         # print >> uni_file,{"label": x[0], "dado": unigramas}
         todosBigramas.extend(bigramas)
@@ -95,37 +114,39 @@ for x in dataset:
         listaDosUnigramas.append({"label": x[0], "dado": unigramas})
         listaDosBigramas.append({"label": x[0], "dado": bigramas})
 
-# uni_file.close()
-# big_file.close()
-# print listaDosUnigramas
-frequenciaUnigrama = nltk.FreqDist(todosUnigramas)
-dicionarioUnigrama = []
 
-frequenciaBigrama = nltk.FreqDist(todosBigramas)
+# print(posUnigramas)
+# print(len(posUnigramas), len(negUnigramas))
+totalDeUnigramas = posUnigramas[:len(negUnigramas)] + negUnigramas
+totalDeBigramas = posBigramas[:len(negBigramas)] + negBigramas
+frequenciaUnigramaPos = nltk.FreqDist(posUnigramas)
+frequenciaUnigramaNeg = nltk.FreqDist(negUnigramas)
+dicionarioUnigrama = []
+# print(len(posBigramas),len(negBigramas))
+frequenciaBigramaPos = nltk.FreqDist(posBigramas)
+frequenciaBigramaNeg = nltk.FreqDist(negBigramas)
 dicionarioBigrama = []
 
-for frequency in frequenciaUnigrama.most_common():
+for frequency in frequenciaUnigramaPos.most_common():
     dicionarioUnigrama.append(frequency[0])
-for frequency in frequenciaBigrama.most_common():
+for frequency in frequenciaUnigramaNeg.most_common():
+    dicionarioUnigrama.append(frequency[0])
+for frequency in frequenciaBigramaPos.most_common():
+    dicionarioBigrama.append(frequency[0])
+for frequency in frequenciaBigramaNeg.most_common():
     dicionarioBigrama.append(frequency[0])
 
-# dataUni = {'dicionario': dicionarioUnigrama}
-# dataBig = {'dicionario': dicionarioBigrama}
+unigramaTotal = lun + lup[:len(lun)]
+bigramaTotal = lbn + lbp[:len(lbn)]
+# print bigramaTotal
 
-# with open('dicionarioUni.txt', 'w') as outfile:
-#     json.dump(dataUni, outfile)
+# texto = []
+# positivos = []
+# negativos = []
 
-# with open('dicionarioBig.txt', 'w') as outfile:
-#     json.dump(dataBig, outfile)
-
-
-texto = []
-positivos = []
-negativos = []
-
-featureset = [(extraiFeatures(tweet['dado'],dicionarioUnigrama), tweet['label']) for tweet in listaDosUnigramas]
-# testeP = ["te", "amo", "muito"]
-# testeN = ["velho", "asqueroso"]
+featureset = [(extraiFeatures(tweet['dado'],dicionarioUnigrama), tweet['label']) for tweet in unigramaTotal]
+# # testeP = ["te", "amo", "muito"]
+# # testeN = ["velho", "asqueroso"]
 random.shuffle(featureset)
 tamanho = len(featureset)
 kf = KFold(n_splits=10)
@@ -168,7 +189,7 @@ wNegativoMedia = wNegativoMedia/10
 
 mostInf = classifier.show_most_informative_features(10)
 
-arquivo = open('resultadosUnigram3.txt', 'a')
+arquivo = open('resultadosUnigram.txt', 'a')
 arquivo.write('\nPositivo Precision: ')
 arquivo.write(str(precisionPositivoMedia))
 arquivo.write('\nPositivo Recall: ')
@@ -196,7 +217,7 @@ texto = []
 positivos = []
 negativos = []
 
-featureset = [(extraiFeatures(tweet['dado'],dicionarioBigrama), tweet['label']) for tweet in listaDosBigramas]
+featureset = [(extraiFeatures(tweet['dado'],dicionarioBigrama), tweet['label']) for tweet in bigramaTotal]
 random.shuffle(featureset)
 tamanho = len(featureset)
 kf = KFold(n_splits=10)
@@ -238,7 +259,7 @@ wNegativoMedia = wNegativoMedia/10
 
 mostInf = classifier.show_most_informative_features(10)
 
-arquivo = open('resultadosBigram3.txt', 'a')
+arquivo = open('resultadosBigram.txt', 'a')
 arquivo.write('\nPositivo Precision: ')
 arquivo.write(str(precisionPositivoMedia))
 arquivo.write('\nPositivo Recall: ')

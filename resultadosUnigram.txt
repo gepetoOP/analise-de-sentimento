@@ -1,22 +1,44 @@
-Positivo Precision: 0.594794609608
-Positivo Recall: 0.760670787228
-Positivo F-Measure: 0.667583082512
-Positivo W - F-Measure: 0.595118237666
-Negativo Precision: 0.860681188596
-Negativo Recall: 0.738173463612
-Negativo F-measure: 0.794733921778
-Negativo W - F-Measure: 0.860325128519
-Media Unigram: 0.746212903226
+Positivo Precision: 0,594794609608
+Positivo Recall: 0,760670787228
+Positivo F-Measure: 0,667583082512
+Positivo W - F-Measure: 0,595118237666
+Negativo Precision: 0,860681188596
+Negativo Recall: 0,738173463612
+Negativo F-measure: 0,794733921778
+Negativo W - F-Measure: 0,860325128519
+Media Unigram: 0,746212903226
 Tamanho do Arquivo:1249
 
+Positivo Precision: 0,863117367269
+Positivo Recall: 0,617856143361
+Positivo F-Measure: 0,720178131453
+Positivo W - F-Measure: 0,862263800884
+Negativo Precision: 0,702117400029
+Negativo Recall: 0,900907093177
+Negativo F-measure: 0,789186376889
+Negativo W - F-Measure: 0,70250396123
+Media Unigram: 0,756626506024
+Tamanho do Arquivo:838
+
 STEM
-Positivo Precision: 0.626776479494
-Positivo Recall: 0.745942488121
-Positivo F-Measure: 0.681187071264
-Positivo W - F-Measure: 0.627026277183
-Negativo Precision: 0.861475986218
-Negativo Recall: 0.779857189126
-Negativo F-measure: 0.818637253184
-Negativo W - F-Measure: 0.861251204711
-Media Unigram: 0.7688
+Positivo Precision: 0,626776479494
+Positivo Recall: 0,745942488121
+Positivo F-Measure: 0,681187071264
+Positivo W - F-Measure: 0,627026277183
+Negativo Precision: 0,861475986218
+Negativo Recall: 0,779857189126
+Negativo F-measure: 0,818637253184
+Negativo W - F-Measure: 0,861251204711
+Media Unigram: 0,7688
 Tamanho do Arquivo:1250
+
+Positivo Precision: 0,891042354873
+Positivo Recall: 0,551285837931
+Positivo F-Measure: 0,681147375041
+Positivo W - F-Measure: 0,889675010275
+Negativo Precision: 0,674999520647
+Negativo Recall: 0,931362911943
+Negativo F-measure: 0,782724379449
+Negativo W - F-Measure: 0,675463175033
+Media Unigram: 0,741164658635
+Tamanho do Arquivo:838
