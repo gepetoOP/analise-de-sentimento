@@ -8,3 +8,15 @@ Negativo F-measure: 0.792930395358
 Negativo W - F-Measure: 0.78989964042
 Media Unigram: 0.666747572816
 Tamanho do Arquivo:1032
+
+STEM
+Positivo Precision: 0.120483757703
+Positivo Recall: 0.131081621165
+Positivo F-Measure: 0.125559457783
+Positivo W - F-Measure: 0.120508054455
+Negativo Precision: 0.786692938016
+Negativo Recall: 0.77419083993
+Negativo F-measure: 0.780391820397
+Negativo W - F-Measure: 0.78666125852
+Media Unigram: 0.648637042569
+Tamanho do Arquivo:1033

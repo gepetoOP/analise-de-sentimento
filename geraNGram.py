@@ -56,7 +56,7 @@ def tokenize(s):
 def preprocess(s, lowercase=True):
     tokens = tknzr.tokenize(s)
     if lowercase:
-        tokens = [token if emoticon_re.search(token) else token.lower() for token in tokens]
+        tokens = [token if emoticon_re.search(token) else stemmer.stem(token.lower()) for token in tokens]
     return tokens
 
 def etiqueta(tokens):
@@ -67,7 +67,7 @@ def extraiFeatures(frase,dicionario):
     features = {}
     for word in dicionario:
         try:
-            features["{}".format(word)] = (word in frase)
+            features["{}".format(word.encode('utf-8'))] = (word in frase)
         except Exception as inst:
             print(inst)
             continue
@@ -97,7 +97,7 @@ for x in dataset:
 
 # uni_file.close()
 # big_file.close()
-
+# print listaDosUnigramas
 frequenciaUnigrama = nltk.FreqDist(todosUnigramas)
 dicionarioUnigrama = []
 
@@ -124,8 +124,8 @@ positivos = []
 negativos = []
 
 featureset = [(extraiFeatures(tweet['dado'],dicionarioUnigrama), tweet['label']) for tweet in listaDosUnigramas]
-testeP = ["te", "amo", "muito"]
-testeN = ["velho", "asqueroso"]
+# testeP = ["te", "amo", "muito"]
+# testeN = ["velho", "asqueroso"]
 random.shuffle(featureset)
 tamanho = len(featureset)
 kf = KFold(n_splits=10)
@@ -168,8 +168,8 @@ wNegativoMedia = wNegativoMedia/10
 
 mostInf = classifier.show_most_informative_features(10)
 
-arquivo = open('resultadosUnigram3.txt', 'w')
-arquivo.write('Positivo Precision: ')
+arquivo = open('resultadosUnigram3.txt', 'a')
+arquivo.write('\nPositivo Precision: ')
 arquivo.write(str(precisionPositivoMedia))
 arquivo.write('\nPositivo Recall: ')
 arquivo.write(str(recallPositivoMedia))
@@ -238,8 +238,8 @@ wNegativoMedia = wNegativoMedia/10
 
 mostInf = classifier.show_most_informative_features(10)
 
-arquivo = open('resultadosBigram3.txt', 'w')
-arquivo.write('Positivo Precision: ')
+arquivo = open('resultadosBigram3.txt', 'a')
+arquivo.write('\nPositivo Precision: ')
 arquivo.write(str(precisionPositivoMedia))
 arquivo.write('\nPositivo Recall: ')
 arquivo.write(str(recallPositivoMedia))
