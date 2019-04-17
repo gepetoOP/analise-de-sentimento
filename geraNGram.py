@@ -57,13 +57,14 @@ def tokenize(s):
 def preprocess(s, lowercase=True):
     tokens = tknzr.tokenize(s)
     if lowercase:
-        tokens = [token if emoticon_re.search(token) else token.lower() for token in tokens]
+        tokens = [token if emoticon_re.search(token) else stemmer.stem(token.lower()) for token in tokens]
     return tokens
 
 def etiqueta(tokens):
     return AnotaCorpus.anota_sentencas([tokens], maxent, "mxpost")
 
-def best_word_feats(words):
+def best_word_feats(words, bestwords):
+    # print(bestwords)
     return dict([(word, True) for word in words if word in bestwords])
 
 def extraiFeatures(frase,dicionario):
@@ -76,7 +77,7 @@ def extraiFeatures(frase,dicionario):
             continue
     return features
 
-dataset = arff.load('OffComBR2.arff')
+dataset = arff.load('OffComBR3.arff')
 stemmer=nltk.stem.RSLPStemmer()
 # uni_file = open('uniPreProcessado.txt', 'w')
 # big_file = open('bigPreProcessado.txt', 'w')
@@ -88,6 +89,10 @@ negWordsUnigrama = []
 posWordsUnigrama = []
 negWordsBigrama = []
 posWordsBigrama = []
+dicUnigramasPositivos = []
+dicUnigramasNegativos = []
+dicBigramasPositivos = []
+dicBigramasNegativos = []
 
 
 for x in dataset:
@@ -97,28 +102,30 @@ for x in dataset:
     if(len(unigramas) > 0):
         if(x[0] == 'yes'):
             negWordsUnigrama.extend(unigramas)
-            # negWordsUnigrama.extend(bigramas)
+            negWordsBigrama.extend(bigramas)
+            dicUnigramasPositivos.append(unigramas)
+            dicBigramasPositivos.append(bigramas)
         else:
             posWordsUnigrama.extend(unigramas)
-            # posWordsBigrama.extend(bigramas)
+            posWordsBigrama.extend(bigramas)
+            dicUnigramasNegativos.append(unigramas)
+            dicBigramasNegativos.append(bigramas)
 
 
         listaDosUnigramas.append({"label": x[0], "dado": unigramas})
-        # listaDosBigramas.append({"label": x[0], "dado": bigramas})
+        listaDosBigramas.append({"label": x[0], "dado": bigramas})
 
 frequenciaUnigrama = nltk.FreqDist()
 condicionalUnigrama = nltk.ConditionalFreqDist()
 dicionarioUnigrama = []
 
-print(len(negWordsUnigrama), len(posWordsUnigrama))
+# print(len(negWordsUnigrama), len(posWordsUnigrama))
+# print(len(negWordsBigrama), len(posWordsBigrama))
 
 frequenciaBigrama = nltk.FreqDist()
 condicionalBigrama = nltk.ConditionalFreqDist()
 dicionarioBigrama = []
-# print(posWords)
-# print('negativas')
-# print(negWords)
-# tamanoTotal = len(negWords) + len(posWords)
+
 for word in posWordsUnigrama:
     frequenciaUnigrama[word.lower()] += 1
     condicionalUnigrama['pos'][word.lower()] += 1
@@ -131,9 +138,9 @@ for word in negWordsUnigrama:
     frequenciaUnigrama[word.lower()] += 1
     condicionalUnigrama['neg'][word.lower()] += 1
 
-# for word in negWordsBigrama:
-#     frequenciaBigrama[word.lower()] += 1
-#     condicionalBigrama['neg'][word.lower()] += 1
+for word in negWordsBigrama:
+    frequenciaBigrama[word.lower()] += 1
+    condicionalBigrama['neg'][word.lower()] += 1
 
 pos_word_count_unigrama = condicionalUnigrama['pos'].N()
 pos_word_count_bigrama = condicionalBigrama['pos'].N()
@@ -152,26 +159,30 @@ for word, freq in frequenciaUnigrama.iteritems():
         (freq, neg_word_count_unigrama), total_word_count_unigrama)
     word_scores_unigrama[word] = pos_score + neg_score
 
-# for word, freq in frequenciaBigrama.iteritems():
-#     pos_score = BigramAssocMeasures.chi_sq(condicionalBigrama['pos'][word],
-#         (freq, pos_word_count_bigrama), total_word_count_bigrama)
-#     neg_score = BigramAssocMeasures.chi_sq(condicionalBigrama['neg'][word],
-#         (freq, neg_word_count_bigrama), total_word_count_bigrama)
-#     word_scores_bigrama[word] = pos_score + neg_score
+for word, freq in frequenciaBigrama.iteritems():
+    pos_score = BigramAssocMeasures.chi_sq(condicionalBigrama['pos'][word],
+        (freq, pos_word_count_bigrama), total_word_count_bigrama)
+    neg_score = BigramAssocMeasures.chi_sq(condicionalBigrama['neg'][word],
+        (freq, neg_word_count_bigrama), total_word_count_bigrama)
+    word_scores_bigrama[word] = pos_score + neg_score
  
-bestUnigrama = sorted(word_scores_unigrama.iteritems(), key=lambda (w,s): s, reverse=True)[:4000]
-# bestBigrama = sorted(word_scores_bigrama.iteritems(), key=lambda (w,s): s, reverse=True)[:4000]
+bestUnigrama = sorted(word_scores_unigrama.iteritems(), key=lambda (w,s): s, reverse=True)[:10000]
+bestBigrama = sorted(word_scores_bigrama.iteritems(), key=lambda (w,s): s, reverse=True)[:10000]
 
 dicionarioUnigrama = [w for w, s in bestUnigrama]
-# dicionarioBigrama = [w for w, s in bestBigrama]
+dicionarioBigrama = [w for w, s in bestBigrama]
 
-# print dicionarioUnigrama
+print len(dicionarioBigrama),len(dicionarioUnigrama)
 
 texto = []
 positivos = []
 negativos = []
-
-featureset = [(extraiFeatures(tweet['dado'],dicionarioUnigrama), tweet['label']) for tweet in listaDosUnigramas]
+melhoresUnigramasPositivos = [(best_word_feats(frase, dicionarioUnigrama), 'no') for frase in dicUnigramasPositivos]
+print len(melhoresUnigramasPositivos)
+melhoresUnigramasNegativos = [(best_word_feats(frase, dicionarioUnigrama), 'yes') for frase in dicUnigramasNegativos]
+print len(melhoresUnigramasNegativos)
+featureset = melhoresUnigramasPositivos + melhoresUnigramasNegativos
+# # featureset = [(extraiFeatures(tweet['dado'],dicionarioUnigrama), tweet['label']) for tweet in listaDosUnigramas]
 random.shuffle(featureset)
 tamanho = len(featureset)
 kf = KFold(n_splits=10)
@@ -215,7 +226,7 @@ wNegativoMedia = wNegativoMedia/10
 mostInf = classifier.show_most_informative_features(10)
 
 arquivo = open('resultadosUnigram.txt', 'a')
-arquivo.write('Positivo Precision: ')
+arquivo.write('\nPositivo Precision: ')
 arquivo.write(str(precisionPositivoMedia))
 arquivo.write('\nPositivo Recall: ')
 arquivo.write(str(recallPositivoMedia))
@@ -238,71 +249,74 @@ arquivo.write(str(tamanho))
 arquivo.close()
 
 
-# texto = []
-# positivos = []
-# negativos = []
-
+texto = []
+positivos = []
+negativos = []
+melhoresBigramasPositivos = [(best_word_feats(frase, dicionarioBigrama), 'no') for frase in dicBigramasPositivos]
+melhoresBigramasNegativos = [(best_word_feats(frase, dicionarioBigrama), 'yes') for frase in dicBigramasNegativos]
+featureset = melhoresBigramasPositivos + melhoresBigramasNegativos
+print len(melhoresBigramasPositivos), len(melhoresUnigramasNegativos)
 # featureset = [(extraiFeatures(tweet['dado'],dicionarioBigrama), tweet['label']) for tweet in listaDosBigramas]
-# random.shuffle(featureset)
-# tamanho = len(featureset)
-# kf = KFold(n_splits=10)
-# sum = 0
-# precisionPositivoMedia = 0;
-# precisionNegativoMedia = 0;
-# recallPositivoMedia = 0;
-# recallNegativoMedia = 0;
-# fmeasurePositivoMedia = 0;
-# fmeasureNegativoMedia = 0;
-# for train, test in kf.split(featureset):
-#     refsets = collections.defaultdict(set)
-#     testsets = collections.defaultdict(set)
-#     train_data = np.array(featureset)[train]
-#     test_data = np.array(featureset)[test]
-#     classifier = nltk.NaiveBayesClassifier.train(train_data)
-#     sum += nltk.classify.accuracy(classifier, test_data)
-#     for i, (feats, label) in enumerate(test_data):
-#         refsets[label].add(i)
-#         observed = classifier.classify(feats)
-#         testsets[observed].add(i)
-#     precisionPositivoMedia += precision(refsets['yes'], testsets['yes'])
-#     precisionNegativoMedia += precision(refsets['no'], testsets['no'])
-#     recallPositivoMedia += recall(refsets['yes'], testsets['yes'])
-#     recallNegativoMedia += recall(refsets['no'], testsets['no'])
-#     fmeasurePositivoMedia += f_measure(refsets['yes'], testsets['yes'])
-#     fmeasureNegativoMedia += f_measure(refsets['no'], testsets['no'])
-#     wPositivoMedia = (1 + (0.05*0.05)) * (precisionPositivoMedia*recallPositivoMedia)/((precisionPositivoMedia*(0.05*0.05))+recallPositivoMedia)
-#     wNegativoMedia = (1 + (0.05*0.05)) * (precisionNegativoMedia*recallNegativoMedia)/((precisionNegativoMedia*(0.05*0.05))+recallNegativoMedia)
-# average = sum/10
-# precisionPositivoMedia = precisionPositivoMedia/10
-# precisionNegativoMedia = precisionNegativoMedia/10
-# recallPositivoMedia = recallPositivoMedia/10
-# recallNegativoMedia = recallNegativoMedia/10
-# fmeasurePositivoMedia = 2 * (precisionPositivoMedia*recallPositivoMedia)/(precisionPositivoMedia+recallPositivoMedia)
-# fmeasureNegativoMedia = 2 * (precisionNegativoMedia*recallNegativoMedia)/(precisionNegativoMedia+recallNegativoMedia)
-# wPositivoMedia = wPositivoMedia/10
-# wNegativoMedia = wNegativoMedia/10
+random.shuffle(featureset)
+tamanho = len(featureset)
+kf = KFold(n_splits=10)
+sum = 0
+precisionPositivoMedia = 0;
+precisionNegativoMedia = 0;
+recallPositivoMedia = 0;
+recallNegativoMedia = 0;
+fmeasurePositivoMedia = 0;
+fmeasureNegativoMedia = 0;
+for train, test in kf.split(featureset):
+    refsets = collections.defaultdict(set)
+    testsets = collections.defaultdict(set)
+    train_data = np.array(featureset)[train]
+    test_data = np.array(featureset)[test]
+    classifier = nltk.NaiveBayesClassifier.train(train_data)
+    sum += nltk.classify.accuracy(classifier, test_data)
+    for i, (feats, label) in enumerate(test_data):
+        refsets[label].add(i)
+        observed = classifier.classify(feats)
+        testsets[observed].add(i)
+    precisionPositivoMedia += precision(refsets['yes'], testsets['yes'])
+    precisionNegativoMedia += precision(refsets['no'], testsets['no'])
+    recallPositivoMedia += recall(refsets['yes'], testsets['yes'])
+    recallNegativoMedia += recall(refsets['no'], testsets['no'])
+    fmeasurePositivoMedia += f_measure(refsets['yes'], testsets['yes'])
+    fmeasureNegativoMedia += f_measure(refsets['no'], testsets['no'])
+    wPositivoMedia = (1 + (0.05*0.05)) * (precisionPositivoMedia*recallPositivoMedia)/((precisionPositivoMedia*(0.05*0.05))+recallPositivoMedia)
+    wNegativoMedia = (1 + (0.05*0.05)) * (precisionNegativoMedia*recallNegativoMedia)/((precisionNegativoMedia*(0.05*0.05))+recallNegativoMedia)
+average = sum/10
+precisionPositivoMedia = precisionPositivoMedia/10
+precisionNegativoMedia = precisionNegativoMedia/10
+recallPositivoMedia = recallPositivoMedia/10
+recallNegativoMedia = recallNegativoMedia/10
+fmeasurePositivoMedia = 2 * (precisionPositivoMedia*recallPositivoMedia)/(precisionPositivoMedia+recallPositivoMedia)
+fmeasureNegativoMedia = 2 * (precisionNegativoMedia*recallNegativoMedia)/(precisionNegativoMedia+recallNegativoMedia)
+wPositivoMedia = wPositivoMedia/10
+wNegativoMedia = wNegativoMedia/10
 
-# mostInf = classifier.show_most_informative_features(10)
+mostInf = classifier.show_most_informative_features(10)
 
-# arquivo = open('resultadosBigram3.txt', 'w')
-# arquivo.write('Positivo Precision: ')
-# arquivo.write(str(precisionPositivoMedia))
-# arquivo.write('\nPositivo Recall: ')
-# arquivo.write(str(recallPositivoMedia))
-# arquivo.write('\nPositivo F-Measure: ')
-# arquivo.write(str(fmeasurePositivoMedia))
-# arquivo.write('\nPositivo W - F-Measure: ')
-# arquivo.write(str(wPositivoMedia))
-# arquivo.write('\nNegativo Precision: ')
-# arquivo.write(str(precisionNegativoMedia))
-# arquivo.write('\nNegativo Recall: ')
-# arquivo.write(str(recallNegativoMedia))
-# arquivo.write('\nNegativo F-measure: ')
-# arquivo.write(str(fmeasureNegativoMedia))
-# arquivo.write('\nNegativo W - F-Measure: ')
-# arquivo.write(str(wNegativoMedia))
-# arquivo.write('\nMedia Unigram: ')
-# arquivo.write(str(average))
-# arquivo.write('\nTamanho do Arquivo:')
-# arquivo.write(str(tamanho))
-# arquivo.close()
+arquivo = open('resultadosBigram.txt', 'a')
+arquivo.write('\nPositivo Precision: ')
+arquivo.write(str(precisionPositivoMedia))
+arquivo.write('\nPositivo Recall: ')
+arquivo.write(str(recallPositivoMedia))
+arquivo.write('\nPositivo F-Measure: ')
+arquivo.write(str(fmeasurePositivoMedia))
+arquivo.write('\nPositivo W - F-Measure: ')
+arquivo.write(str(wPositivoMedia))
+arquivo.write('\nNegativo Precision: ')
+arquivo.write(str(precisionNegativoMedia))
+arquivo.write('\nNegativo Recall: ')
+arquivo.write(str(recallNegativoMedia))
+arquivo.write('\nNegativo F-measure: ')
+arquivo.write(str(fmeasureNegativoMedia))
+arquivo.write('\nNegativo W - F-Measure: ')
+arquivo.write(str(wNegativoMedia))
+arquivo.write('\nMedia Unigram: ')
+arquivo.write(str(average))
+arquivo.write('\nTamanho do Arquivo:')
+arquivo.write(str(tamanho))
+arquivo.close()
