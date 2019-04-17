@@ -1,0 +1,10 @@
+Positivo Precision: 0.395460157747
+Positivo Recall: 0.330457597958
+Positivo F-Measure: 0.360048539356
+Positivo W - F-Measure: 0.395266265656
+Negativo Precision: 0.843892706736
+Negativo Recall: 0.878448779706
+Negativo F-measure: 0.860824086595
+Negativo W - F-Measure: 0.843975499695
+Media Unigram: 0.771368558626
+Tamanho do Arquivo:1032

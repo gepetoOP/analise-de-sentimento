@@ -1,0 +1,22 @@
+
+Positivo Precision: 0.303607934714
+Positivo Recall: 0.466104997608
+Positivo F-Measure: 0.367703775632
+Positivo W - F-Measure: 0.303872119765
+Negativo Precision: 0.635994640807
+Negativo Recall: 0.464918589075
+Negativo F-measure: 0.537164461353
+Negativo W - F-Measure: 0.635411567645
+Media Unigram: 0.46435483871
+Tamanho do Arquivo:1249
+
+Positivo Precision: 0.307771333846
+Positivo Recall: 0.465365542479
+Positivo F-Measure: 0.370506641504
+Positivo W - F-Measure: 0.308031467621
+Negativo Precision: 0.643188833226
+Negativo Recall: 0.479714616256
+Negativo F-measure: 0.549552295798
+Negativo W - F-Measure: 0.642642708893
+Media Unigram: 0.4724
+Tamanho do Arquivo:1249
