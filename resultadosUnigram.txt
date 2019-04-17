@@ -1,22 +1,43 @@
-
-Positivo Precision: 0.593626648142
-Positivo Recall: 0.757879854286
-Positivo F-Measure: 0.665772124346
-Positivo W - F-Measure: 0.593947657205
-Negativo Precision: 0.857873675708
-Negativo Recall: 0.738012666651
-Negativo F-measure: 0.793442016833
-Negativo W - F-Measure: 0.85752636576
-Media Unigram: 0.743812903226
+Positivo Precision: 0.976354489164
+Positivo Recall: 0.457436408044
+Positivo F-Measure: 0.622991945856
+Positivo W - F-Measure: 0.973600232733
+Negativo Precision: 0.784479975438
+Negativo Recall: 0.99525671859
+Negativo F-measure: 0.877387052561
+Negativo W - F-Measure: 0.784894504026
+Media Unigram: 0.81504516129
 Tamanho do Arquivo:1249
 
-Positivo Precision: 0.594794609608
-Positivo Recall: 0.760670787228
-Positivo F-Measure: 0.667583082512
-Positivo W - F-Measure: 0.595118237666
-Negativo Precision: 0.860681188596
-Negativo Recall: 0.738173463612
-Negativo F-measure: 0.794733921778
-Negativo W - F-Measure: 0.860325128519
-Media Unigram: 0.746212903226
+Positivo Precision: 0.986128364389
+Positivo Recall: 0.472714247371
+Positivo F-Measure: 0.639077750849
+Positivo W - F-Measure: 0.0422721268164
+Negativo Precision: 0.788169663185
+Negativo Recall: 0.996517060695
+Negativo F-measure: 0.880181945186
+Negativo W - F-Measure: 0.0986651189785
+Media Unigram: 0.819851612903
+Tamanho do Arquivo:1249
+
+Positivo Precision: 0.907671001152
+Positivo Recall: 0.645898499943
+Positivo F-Measure: 0.754730750922
+Positivo W - F-Measure: 0.906754558862
+Negativo Precision: 0.843812910991
+Negativo Recall: 0.967757170162
+Negativo F-measure: 0.90154502261
+Negativo W - F-Measure: 0.844082498981
+Media Unigram: 0.859122580645
+Tamanho do Arquivo:1249
+
+Positivo Precision: 0.604387848172
+Positivo Recall: 0.767382085522
+Positivo F-Measure: 0.676201447492
+Positivo W - F-Measure: 0.604708151938
+Negativo Precision: 0.86212468737
+Negativo Recall: 0.746132794759
+Negativo F-measure: 0.799945916081
+Negativo W - F-Measure: 0.861790593211
+Media Unigram: 0.751832258065
 Tamanho do Arquivo:1249
