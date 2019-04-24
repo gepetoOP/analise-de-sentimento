@@ -1,0 +1,128 @@
+Balanceado: True
+Dataset: OffComBR2
+Information Gain: True
+Radical: True
+Positivo Precision: 0.554874913734
+Positivo Recall: 0.246797880234
+Positivo F-Measure: 0.341640513524
+Positivo W - F-Measure: 0.553152970719
+Negativo Precision: 0.704228149421
+Negativo Recall: 0.900645955642
+Negativo F-measure: 0.790417432276
+Negativo W - F-Measure: 0.704611355172
+Media Unigram: 0.6816
+Tamanho do Arquivo:1250
+
+
+Balanceado: True
+Dataset: OffComBR2
+Information Gain: False
+Radical: True
+Positivo Precision: 0.529712418301
+Positivo Recall: 0.242326825448
+Positivo F-Measure: 0.332531098041
+Positivo W - F-Measure: 0.52815043363
+Negativo Precision: 0.700028991751
+Negativo Recall: 0.892398943182
+Negativo F-measure: 0.784594541117
+Negativo W - F-Measure: 0.700405507692
+Media Unigram: 0.6744
+Tamanho do Arquivo:1250
+
+
+Balanceado: False
+Dataset: OffComBR2
+Information Gain: True
+Radical: True
+Positivo Precision: 0.527291461623
+Positivo Recall: 0.253063937077
+Positivo F-Measure: 0.341994054216
+Positivo W - F-Measure: 0.525870392738
+Negativo Precision: 0.703045667543
+Negativo Recall: 0.88793258175
+Negativo F-measure: 0.784746309319
+Negativo W - F-Measure: 0.703410918123
+Media Unigram: 0.676
+Tamanho do Arquivo:1250
+
+
+Balanceado: False
+Dataset: OffComBR2
+Information Gain: False
+Radical: True
+Positivo Precision: 0.554794539303
+Positivo Recall: 0.268872279439
+Positivo F-Measure: 0.362206826859
+Positivo W - F-Measure: 0.553327169553
+Negativo Precision: 0.708258491338
+Negativo Recall: 0.893129410963
+Negativo F-measure: 0.790022814921
+Negativo W - F-Measure: 0.708624276315
+Media Unigram: 0.684
+Tamanho do Arquivo:1250
+
+
+Balanceado: True
+Dataset: OffComBR2
+Information Gain: True
+Radical: False
+Positivo Precision: 0.573921568627
+Positivo Recall: 0.191371924224
+Positivo F-Measure: 0.28703360467
+Positivo W - F-Measure: 0.571074760659
+Negativo Precision: 0.694641588716
+Negativo Recall: 0.928970642158
+Negativo F-measure: 0.794896257208
+Negativo W - F-Measure: 0.695078822622
+Media Unigram: 0.681361290323
+Tamanho do Arquivo:1249
+
+
+Balanceado: True
+Dataset: OffComBR2
+Information Gain: False
+Radical: False
+Positivo Precision: 0.570057435255
+Positivo Recall: 0.20055423751
+Positivo F-Measure: 0.296718667274
+Positivo W - F-Measure: 0.567450262631
+Negativo Precision: 0.69680377917
+Negativo Recall: 0.925409213843
+Negativo F-measure: 0.794998733535
+Negativo W - F-Measure: 0.697233302227
+Media Unigram: 0.682935483871
+Tamanho do Arquivo:1249
+
+
+Balanceado: False
+Dataset: OffComBR2
+Information Gain: True
+Radical: False
+Positivo Precision: 0.573534390446
+Positivo Recall: 0.178804281159
+Positivo F-Measure: 0.272617660834
+Positivo W - F-Measure: 0.570394220983
+Negativo Precision: 0.690422564053
+Negativo Recall: 0.926622408533
+Negativo F-measure: 0.791271770488
+Negativo W - F-Measure: 0.690861724854
+Media Unigram: 0.674903225806
+Tamanho do Arquivo:1249
+
+
+Balanceado: False
+Dataset: OffComBR2
+Information Gain: False
+Radical: False
+Positivo Precision: 0.559323029911
+Positivo Recall: 0.185548978775
+Positivo F-Measure: 0.278656778064
+Positivo W - F-Measure: 0.556527316226
+Negativo Precision: 0.69346575397
+Negativo Recall: 0.927204116155
+Negativo F-measure: 0.793479675715
+Negativo W - F-Measure: 0.693901976807
+Media Unigram: 0.681322580645
+Tamanho do Arquivo:1249
+
+
