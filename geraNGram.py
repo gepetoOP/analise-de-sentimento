@@ -7,12 +7,14 @@ import time
 import random
 import string
 import codecs
+import goslate
 import operator
 import collections
 import pandas as pd
 from io import StringIO
 import arff, numpy as np
 from nltk.corpus import *
+import concurrent.futures
 from nltk.util import ngrams
 from collections import Counter
 from googletrans import Translator
@@ -21,6 +23,9 @@ from sklearn.model_selection import KFold
 from nltk.metrics import BigramAssocMeasures
 from Aelius import Extras, Toqueniza, AnotaCorpus
 from nltk.metrics.scores import precision, recall, f_measure
+# from google.cloud import translate
+# from translate import Translator
+
 
 
 
@@ -53,31 +58,32 @@ def extraiFeatures(frase,dicionario):
             continue
     return features
 
-def traduz_e_retraduz(frase):
-    frase_em_ingles = translator.translate(frase, dest='en')
-    frase_em_espanhol = translator.translate(frase, dest='es')
-    traduzida_do_ingles = translator.translate(frase_em_ingles.text, dest='pt')
-    traduzida_do_espanhol = translator.translate(frase_em_espanhol.text, dest='pt')
-    print(traduzida_do_ingles.text, traduzida_do_espanhol.text)
-    print('teste')
-
-    return traduzida_do_ingles.text, traduzida_do_espanhol.text
-    # print(traduzida_do_espanhol.origin, ' -> ', traduzida_do_espanhol.text)
-    # print(traduzida_do_ingles.origin, ' -> ', traduzida_do_ingles.text)
-    # return frase_traduzida
-
 def incrementa_dataset(dataset):
-    informacoes = []
+    epFile = open("espanholParaPortuguesOFF2.txt", "r")
+    inFile = open("inglesParaPortuguesOFF2.txt", "r")
+    espanhol, ingles = [], []
+    for frase in epFile:
+        espanhol.append(frase)
+    for frase in inFile:
+        ingles.append(frase)
+    frasesComInglesEspanhol = []
+    frases = []
+    classes = []
+    conjuntoEspanhol = []
+    conjuntoNormal = []
+    conjuntoIngles = []
     for x in dataset:
-        informacoes.append([x[0],x[1]])
-        frase_do_ingles,frase_do_espanhol = traduz_e_retraduz(x[1])
-        # print(frase_do_espanhol)
-        informacoes.append([x[0],frase_do_ingles])
-        informacoes.append([x[0],frase_do_espanhol])
-        # except Exception as inst:
-        #     # print(inst)
-        #     continue
-    # print(informacoes[0])
+        frases.append(x[1])
+        classes.append(x[0])
+    if(len(espanhol) != len(ingles)):
+        print('deu ruim')
+    else:
+        for i in range(len(espanhol)):
+            conjuntoEspanhol.append((espanhol[i],classes[i]))
+            conjuntoIngles.append((ingles[i],classes[i]))
+            conjuntoNormal.append((frases[i],classes[i]))
+    frasesComInglesEspanhol = conjuntoEspanhol + conjuntoNormal + conjuntoIngles
+    print(frasesComInglesEspanhol)
 def information_gain(balanceado):
     pos_word_count_unigrama = condicionalUnigrama['pos'].N()
     pos_word_count_bigrama = condicionalBigrama['pos'].N()
@@ -142,7 +148,6 @@ regex_str = [
 tokens_re = re.compile(r'(' + '|'.join(regex_str) + ')', re.VERBOSE | re.IGNORECASE)
 emoticon_re = re.compile(r'^' + emoticons_str + '$', re.VERBOSE | re.IGNORECASE)
 tknzr = TweetTokenizer()
-translator = Translator()
 
 datasets = ['OffComBR2']
 radical = False
@@ -159,18 +164,22 @@ if sys.argv.count('balanceado'):
 if sys.argv.count('ig'):
     ig = True
 
+
+
 radicais = [True, False]
 balanceados = [True, False]
 igs = [True, False]
 stemmer=nltk.stem.RSLPStemmer()
 
+
+
 for base_de_dados in datasets:
     # for radical in radicais:
     #     for balanceado in balanceados:
     #         for ig in igs:
-    # dataset = arff.load(base_de_dados+'.arff')
-    incrementa_dataset(arff.load(base_de_dados+'.arff'))
-    print('rolous')
+    dataset = arff.load(base_de_dados+'.arff')
+    # incrementa_dataset(arff.load(base_de_dados+'.arff'))
+    incrementa_dataset(dataset)
     todosUnigramas = []
     todosBigramas = []
     negWordsUnigrama = []
