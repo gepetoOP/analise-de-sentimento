@@ -2,15 +2,15 @@ Balanceado: True
 Dataset: OffComBR2
 Information Gain: True
 Radical: True
-Positivo Precision: 0.766430996007
-Positivo Recall: 0.559972806878
-Positivo F-Measure: 0.647134025369
-Positivo W - F-Measure: 0.76572696021
-Negativo Precision: 0.804414171181
-Negativo Recall: 0.911573000473
-Negativo F-measure: 0.854647694061
-Negativo W - F-Measure: 0.804650055559
-Media Unigram: 0.7936
+Positivo Precision: 0.755952103452
+Positivo Recall: 0.553715275458
+Positivo F-Measure: 0.639219139053
+Positivo W - F-Measure: 0.755264198769
+Negativo Precision: 0.803532464406
+Negativo Recall: 0.911147591024
+Negativo F-measure: 0.853963008358
+Negativo W - F-Measure: 0.803769204372
+Media Unigram: 0.792
 Tamanho do Arquivo:1250
 
 
@@ -18,15 +18,15 @@ Balanceado: True
 Dataset: OffComBR2
 Information Gain: False
 Radical: True
-Positivo Precision: 0.733091858377
-Positivo Recall: 0.555438294598
-Positivo F-Measure: 0.632018258417
-Positivo W - F-Measure: 0.732507598764
-Negativo Precision: 0.800340652325
-Negativo Recall: 0.899831475065
-Negativo F-measure: 0.847175057318
-Negativo W - F-Measure: 0.800561387787
-Media Unigram: 0.784
+Positivo Precision: 0.754309064197
+Positivo Recall: 0.544067211885
+Positivo F-Measure: 0.632166247978
+Positivo W - F-Measure: 0.753582869179
+Negativo Precision: 0.799240757655
+Negativo Recall: 0.909729378664
+Negativo F-measure: 0.850913403824
+Negativo W - F-Measure: 0.799482899663
+Media Unigram: 0.788
 Tamanho do Arquivo:1250
 
 
@@ -34,15 +34,15 @@ Balanceado: False
 Dataset: OffComBR2
 Information Gain: True
 Radical: True
-Positivo Precision: 0.766675685426
-Positivo Recall: 0.5709595279
-Positivo F-Measure: 0.654499497385
-Positivo W - F-Measure: 0.766020871983
-Negativo Precision: 0.809164161795
-Negativo Recall: 0.913471485029
-Negativo F-measure: 0.858159866679
-Negativo W - F-Measure: 0.809394643129
-Media Unigram: 0.7984
+Positivo Precision: 0.769199040803
+Positivo Recall: 0.553831961216
+Positivo F-Measure: 0.64398644126
+Positivo W - F-Measure: 0.768453837596
+Negativo Precision: 0.805363742998
+Negativo Recall: 0.913533789778
+Negativo F-measure: 0.856045201371
+Negativo W - F-Measure: 0.805601623234
+Media Unigram: 0.7944
 Tamanho do Arquivo:1250
 
 
@@ -50,15 +50,15 @@ Balanceado: False
 Dataset: OffComBR2
 Information Gain: False
 Radical: True
-Positivo Precision: 0.739115821024
-Positivo Recall: 0.549140407604
-Positivo F-Measure: 0.630120552424
-Positivo W - F-Measure: 0.738478721017
-Negativo Precision: 0.80039859324
-Negativo Recall: 0.905966976161
-Negativo F-measure: 0.84991716458
-Negativo W - F-Measure: 0.80063124678
-Media Unigram: 0.7864
+Positivo Precision: 0.758718306499
+Positivo Recall: 0.568977862446
+Positivo F-Measure: 0.65029022502
+Positivo W - F-Measure: 0.758087872364
+Negativo Precision: 0.806634496607
+Negativo Recall: 0.906512773496
+Negativo F-measure: 0.85366213107
+Negativo W - F-Measure: 0.806856188021
+Media Unigram: 0.7944
 Tamanho do Arquivo:1250
 
 
@@ -66,15 +66,15 @@ Balanceado: True
 Dataset: OffComBR2
 Information Gain: True
 Radical: False
-Positivo Precision: 0.723022643931
-Positivo Recall: 0.621005171621
-Positivo F-Measure: 0.668142126056
-Positivo W - F-Measure: 0.722726563989
-Negativo Precision: 0.825226759537
-Negativo Recall: 0.883589270401
-Negativo F-measure: 0.853411365062
-Negativo W - F-Measure: 0.825362711038
-Media Unigram: 0.797419354839
+Positivo Precision: 0.72366274148
+Positivo Recall: 0.628173744736
+Positivo F-Measure: 0.672545738892
+Positivo W - F-Measure: 0.72338852043
+Negativo Precision: 0.823558086491
+Negativo Recall: 0.877234450754
+Negativo F-measure: 0.849549265823
+Negativo W - F-Measure: 0.82368377152
+Media Unigram: 0.792625806452
 Tamanho do Arquivo:1249
 
 
@@ -82,15 +82,15 @@ Balanceado: True
 Dataset: OffComBR2
 Information Gain: False
 Radical: False
-Positivo Precision: 0.741209420955
-Positivo Recall: 0.657450601566
-Positivo F-Measure: 0.696822060897
-Positivo W - F-Measure: 0.74097401035
-Negativo Precision: 0.83589851102
-Negativo Recall: 0.883688016224
-Negativo F-measure: 0.859129197938
-Negativo W - F-Measure: 0.836011257066
-Media Unigram: 0.806258064516
+Positivo Precision: 0.717402756312
+Positivo Recall: 0.609203907519
+Positivo F-Measure: 0.658890949859
+Positivo W - F-Measure: 0.717085152054
+Negativo Precision: 0.815474556691
+Negativo Recall: 0.878311160168
+Negativo F-measure: 0.845727292237
+Negativo W - F-Measure: 0.815620071714
+Media Unigram: 0.7862
 Tamanho do Arquivo:1249
 
 
@@ -98,15 +98,15 @@ Balanceado: False
 Dataset: OffComBR2
 Information Gain: True
 Radical: False
-Positivo Precision: 0.735842582832
-Positivo Recall: 0.640501976365
-Positivo F-Measure: 0.684870115478
-Positivo W - F-Measure: 0.735569536217
-Negativo Precision: 0.829253376118
-Negativo Recall: 0.880894050791
-Negativo F-measure: 0.854294026499
-Negativo W - F-Measure: 0.829374624123
-Media Unigram: 0.799832258065
+Positivo Precision: 0.728701679705
+Positivo Recall: 0.603919426314
+Positivo F-Measure: 0.660468453297
+Positivo W - F-Measure: 0.728326399633
+Negativo Precision: 0.81804318001
+Negativo Recall: 0.886731523451
+Negativo F-measure: 0.851003565206
+Negativo W - F-Measure: 0.818201234433
+Media Unigram: 0.793458064516
 Tamanho do Arquivo:1249
 
 
@@ -114,15 +114,397 @@ Balanceado: False
 Dataset: OffComBR2
 Information Gain: False
 Radical: False
-Positivo Precision: 0.722906354265
-Positivo Recall: 0.630024329715
-Positivo F-Measure: 0.673277052084
-Positivo W - F-Measure: 0.722640678228
-Negativo Precision: 0.823748568941
-Negativo Recall: 0.879265835761
-Negativo F-measure: 0.850602287247
-Negativo W - F-Measure: 0.823878294803
-Media Unigram: 0.794258064516
+Positivo Precision: 0.724550044039
+Positivo Recall: 0.623893834737
+Positivo F-Measure: 0.670465137703
+Positivo W - F-Measure: 0.724258650985
+Negativo Precision: 0.822722328369
+Negativo Recall: 0.880807870611
+Negativo F-measure: 0.850774823468
+Negativo W - F-Measure: 0.822857649993
+Media Unigram: 0.795058064516
 Tamanho do Arquivo:1249
 
 
+Balanceado: True
+Dataset: OffComBR3
+Information Gain: True
+Radical: True
+Positivo Precision: 0.595211133895
+Positivo Recall: 0.544902546303
+Positivo F-Measure: 0.568946883246
+Positivo W - F-Measure: 0.595074124616
+Negativo Precision: 0.889241775833
+Negativo Recall: 0.908809805
+Negativo F-measure: 0.89891931189
+Negativo W - F-Measure: 0.88928952578
+Media Unigram: 0.835436893204
+Tamanho do Arquivo:1033
+
+
+Balanceado: True
+Dataset: OffComBR3
+Information Gain: False
+Radical: True
+Positivo Precision: 0.607410579616
+Positivo Recall: 0.546145989149
+Positivo F-Measure: 0.575151424398
+Positivo W - F-Measure: 0.60724070938
+Negativo Precision: 0.890325192844
+Negativo Recall: 0.909723752455
+Negativo F-measure: 0.899919946571
+Negativo W - F-Measure: 0.890372539285
+Media Unigram: 0.837331964152
+Tamanho do Arquivo:1033
+
+
+Balanceado: False
+Dataset: OffComBR3
+Information Gain: True
+Radical: True
+Positivo Precision: 0.577954889314
+Positivo Recall: 0.526116276946
+Positivo F-Measure: 0.550818613692
+Positivo W - F-Measure: 0.577812913456
+Negativo Precision: 0.88905116152
+Negativo Recall: 0.905751829005
+Negativo F-measure: 0.897323795287
+Negativo W - F-Measure: 0.889092043033
+Media Unigram: 0.833504480956
+Tamanho do Arquivo:1033
+
+
+Balanceado: False
+Dataset: OffComBR3
+Information Gain: False
+Radical: True
+Positivo Precision: 0.571819170252
+Positivo Recall: 0.502428421756
+Positivo F-Measure: 0.534882657177
+Positivo W - F-Measure: 0.571622294532
+Negativo Precision: 0.880912733083
+Negativo Recall: 0.910417380105
+Negativo F-measure: 0.895422073966
+Negativo W - F-Measure: 0.880983932018
+Media Unigram: 0.82965832711
+Tamanho do Arquivo:1033
+
+
+Balanceado: True
+Dataset: OffComBR3
+Information Gain: True
+Radical: False
+Positivo Precision: 0.529713194793
+Positivo Recall: 0.575749796132
+Positivo F-Measure: 0.551772906763
+Positivo W - F-Measure: 0.529818840654
+Negativo Precision: 0.893343784054
+Negativo Recall: 0.872621342423
+Negativo F-measure: 0.882860981113
+Negativo W - F-Measure: 0.893290883086
+Media Unigram: 0.813984316654
+Tamanho do Arquivo:1032
+
+
+Balanceado: True
+Dataset: OffComBR3
+Information Gain: False
+Radical: False
+Positivo Precision: 0.482900398621
+Positivo Recall: 0.511152770032
+Positivo F-Measure: 0.496625098513
+Positivo W - F-Measure: 0.48296696842
+Negativo Precision: 0.877128235939
+Negativo Recall: 0.86790414859
+Negativo F-measure: 0.872491813409
+Negativo W - F-Measure: 0.877104989371
+Media Unigram: 0.797442120986
+Tamanho do Arquivo:1032
+
+
+Balanceado: False
+Dataset: OffComBR3
+Information Gain: True
+Radical: False
+Positivo Precision: 0.502246167678
+Positivo Recall: 0.578829304446
+Positivo F-Measure: 0.537825170201
+Positivo W - F-Measure: 0.50241193473
+Negativo Precision: 0.889009781987
+Negativo Recall: 0.863368751257
+Negativo F-measure: 0.876001675173
+Negativo W - F-Measure: 0.888943945119
+Media Unigram: 0.804182225541
+Tamanho do Arquivo:1032
+
+
+Balanceado: False
+Dataset: OffComBR3
+Information Gain: False
+Radical: False
+Positivo Precision: 0.496213380441
+Positivo Recall: 0.557016360735
+Positivo F-Measure: 0.524859791773
+Positivo W - F-Measure: 0.496348494099
+Negativo Precision: 0.888091951884
+Negativo Recall: 0.861805223901
+Negativo F-measure: 0.874751149986
+Negativo W - F-Measure: 0.888024404592
+Media Unigram: 0.801316280807
+Tamanho do Arquivo:1032
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR2
+Information Gain: True
+Radical: True
+Positivo Precision: 0.920065811414
+Positivo Recall: 0.847579369824
+Positivo F-Measure: 0.882336352241
+Positivo W - F-Measure: 0.919869629796
+Negativo Precision: 0.926391506198
+Negativo Recall: 0.963110625169
+Negativo F-measure: 0.944394280243
+Negativo W - F-Measure: 0.926479592334
+Media Unigram: 0.924347950089
+Tamanho do Arquivo:3741
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR2
+Information Gain: False
+Radical: True
+Positivo Precision: 0.922639442262
+Positivo Recall: 0.846627843659
+Positivo F-Measure: 0.883000830562
+Positivo W - F-Measure: 0.922432914834
+Negativo Precision: 0.92618082404
+Negativo Recall: 0.96492819165
+Negativo F-measure: 0.945157555981
+Negativo W - F-Measure: 0.926273580061
+Media Unigram: 0.925155080214
+Tamanho do Arquivo:3741
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR2
+Information Gain: True
+Radical: True
+Positivo Precision: 0.920994652018
+Positivo Recall: 0.847501757125
+Positivo F-Measure: 0.88272114306
+Positivo W - F-Measure: 0.920795528033
+Negativo Precision: 0.92633049223
+Negativo Recall: 0.963411699003
+Negativo F-measure: 0.944507285172
+Negativo W - F-Measure: 0.92641941341
+Media Unigram: 0.924622459893
+Tamanho do Arquivo:3741
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR2
+Information Gain: False
+Radical: True
+Positivo Precision: 0.921495194219
+Positivo Recall: 0.85224901693
+Positivo F-Measure: 0.885520435745
+Positivo W - F-Measure: 0.921308517565
+Negativo Precision: 0.928100852451
+Negativo Recall: 0.96346727255
+Negativo F-measure: 0.945453441664
+Negativo W - F-Measure: 0.928185818356
+Media Unigram: 0.925955080214
+Tamanho do Arquivo:3741
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR2
+Information Gain: True
+Radical: False
+Positivo Precision: 0.918941994649
+Positivo Recall: 0.908073420737
+Positivo F-Measure: 0.913475380134
+Positivo W - F-Measure: 0.918914567393
+Negativo Precision: 0.954826279254
+Negativo Recall: 0.959348928665
+Negativo F-measure: 0.957082261095
+Negativo W - F-Measure: 0.954837504644
+Media Unigram: 0.942476093533
+Tamanho do Arquivo:3738
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR2
+Information Gain: False
+Radical: False
+Positivo Precision: 0.932289555751
+Positivo Recall: 0.897006411469
+Positivo F-Measure: 0.914307716017
+Positivo W - F-Measure: 0.932198115885
+Negativo Precision: 0.948794639771
+Negativo Recall: 0.967462431009
+Negativo F-measure: 0.958037606455
+Negativo W - F-Measure: 0.948840296792
+Media Unigram: 0.943557081619
+Tamanho do Arquivo:3738
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR2
+Information Gain: True
+Radical: False
+Positivo Precision: 0.920607798734
+Positivo Recall: 0.897316187544
+Positivo F-Measure: 0.908812784714
+Positivo W - F-Measure: 0.920548211093
+Negativo Precision: 0.948908152032
+Negativo Recall: 0.961113632184
+Negativo F-measure: 0.95497189419
+Negativo W - F-Measure: 0.948938204053
+Media Unigram: 0.939536350733
+Tamanho do Arquivo:3738
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR2
+Information Gain: False
+Radical: False
+Positivo Precision: 0.931286631508
+Positivo Recall: 0.90300551011
+Positivo F-Measure: 0.916928051604
+Positivo W - F-Measure: 0.931213901891
+Negativo Precision: 0.951575841969
+Negativo Recall: 0.966659647366
+Negativo F-measure: 0.959058439857
+Negativo W - F-Measure: 0.951612871931
+Media Unigram: 0.945161359694
+Tamanho do Arquivo:3738
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR3
+Information Gain: True
+Radical: True
+Positivo Precision: 0.596812719066
+Positivo Recall: 0.506066342694
+Positivo F-Measure: 0.547706163773
+Positivo W - F-Measure: 0.596545958658
+Negativo Precision: 0.820297466938
+Negativo Recall: 0.867923118057
+Negativo F-measure: 0.843438519311
+Negativo W - F-Measure: 0.820409732383
+Media Unigram: 0.767388036329
+Tamanho do Arquivo:3091
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR3
+Information Gain: False
+Radical: True
+Positivo Precision: 0.597244522433
+Positivo Recall: 0.500953761704
+Positivo F-Measure: 0.544877722888
+Positivo W - F-Measure: 0.596958377108
+Negativo Precision: 0.818854170598
+Negativo Recall: 0.868665853553
+Negativo F-measure: 0.843024849315
+Negativo W - F-Measure: 0.818971282967
+Media Unigram: 0.766423426245
+Tamanho do Arquivo:3091
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR3
+Information Gain: True
+Radical: True
+Positivo Precision: 0.59879272319
+Positivo Recall: 0.501179757684
+Positivo F-Measure: 0.545655090703
+Positivo W - F-Measure: 0.598502029744
+Negativo Precision: 0.820068984668
+Negativo Recall: 0.869027291374
+Negativo F-measure: 0.843838611919
+Negativo W - F-Measure: 0.820184213194
+Media Unigram: 0.767709573024
+Tamanho do Arquivo:3091
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR3
+Information Gain: False
+Radical: True
+Positivo Precision: 0.59361106277
+Positivo Recall: 0.510863715738
+Positivo F-Measure: 0.549137670015
+Positivo W - F-Measure: 0.593371383074
+Negativo Precision: 0.821368450436
+Negativo Recall: 0.865279455976
+Negativo F-measure: 0.842752353052
+Negativo W - F-Measure: 0.821472410275
+Media Unigram: 0.766739743188
+Tamanho do Arquivo:3091
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR3
+Information Gain: True
+Radical: False
+Positivo Precision: 0.594139062892
+Positivo Recall: 0.571916020004
+Positivo F-Measure: 0.582815774593
+Positivo W - F-Measure: 0.594081495983
+Negativo Precision: 0.838669600361
+Negativo Recall: 0.850199992042
+Negativo F-measure: 0.844395435575
+Negativo W - F-Measure: 0.838697965452
+Media Unigram: 0.773722313285
+Tamanho do Arquivo:3089
+
+
+Balanceado: True
+Dataset: portuguesInglesEspanholBR3
+Information Gain: False
+Radical: False
+Positivo Precision: 0.591434266366
+Positivo Recall: 0.562473449662
+Positivo F-Measure: 0.576590428212
+Positivo W - F-Measure: 0.591358336064
+Negativo Precision: 0.833799686204
+Negativo Recall: 0.849243865435
+Negativo F-measure: 0.841450915302
+Negativo W - F-Measure: 0.833837501671
+Media Unigram: 0.769188416761
+Tamanho do Arquivo:3089
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR3
+Information Gain: True
+Radical: False
+Positivo Precision: 0.595215479531
+Positivo Recall: 0.552448994477
+Positivo F-Measure: 0.573035413418
+Positivo W - F-Measure: 0.595100596104
+Negativo Precision: 0.832634212116
+Negativo Recall: 0.855840021631
+Negativo F-measure: 0.844077650539
+Negativo W - F-Measure: 0.832690516651
+Media Unigram: 0.771441180179
+Tamanho do Arquivo:3089
+
+
+Balanceado: False
+Dataset: portuguesInglesEspanholBR3
+Information Gain: False
+Radical: False
+Positivo Precision: 0.597098763144
+Positivo Recall: 0.568426151906
+Positivo F-Measure: 0.582409775817
+Positivo W - F-Measure: 0.597023663069
+Negativo Precision: 0.836619071985
+Negativo Recall: 0.852335249961
+Negativo F-measure: 0.844404039324
+Negativo W - F-Measure: 0.836657543549
+Media Unigram: 0.773399739419
+Tamanho do Arquivo:3089
