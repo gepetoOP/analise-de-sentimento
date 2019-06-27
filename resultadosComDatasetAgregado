@@ -1,0 +1,72 @@
+OffComBR2+kaggle
+{'radical': False, 'balanceado': False, 'ig': False}
+Unigrama
+0.616111521941
+Bigrama
+0.554689689884
+OffComBR2+kaggle
+{'radical': True, 'balanceado': False, 'ig': False}
+Unigrama
+0.614658888605
+Bigrama
+0.558979740836
+OffComBR2+kaggle
+{'radical': False, 'balanceado': False, 'ig': True}
+Unigrama
+0.68739600132
+Bigrama
+0.515528535596
+OffComBR2+kaggle
+{'radical': False, 'balanceado': True, 'ig': False}
+Unigrama
+0.67908587931
+Bigrama
+0.559687508006
+OffComBR2+kaggle
+{'radical': False, 'balanceado': True, 'ig': True}
+Unigrama
+0.689207291107
+Bigrama
+0.501984223225
+OffComBR2+kaggle
+{'radical': True, 'balanceado': True, 'ig': True}
+Unigrama
+0.673988168322
+Bigrama
+0.534524162272
+OffComBR3+kaggle
+{'radical': False, 'balanceado': False, 'ig': False}
+Unigrama
+0.580087924814
+Bigrama
+0.570939747462
+OffComBR3+kaggle
+{'radical': True, 'balanceado': False, 'ig': False}
+Unigrama
+0.595745203359
+Bigrama
+0.559239641131
+OffComBR3+kaggle
+{'radical': False, 'balanceado': False, 'ig': True}
+Unigrama
+0.653226676779
+Bigrama
+0.562003821952
+OffComBR3+kaggle
+{'radical': False, 'balanceado': True, 'ig': False}
+Unigrama
+0.780352155306
+Bigrama
+0.650569904932
+OffComBR3+kaggle
+{'radical': False, 'balanceado': True, 'ig': True}
+Unigrama
+0.645098090099
+Bigrama
+0.557312255306
+OffComBR3+kaggle
+{'radical': True, 'balanceado': True, 'ig': True}
+Unigrama
+0.635918973725
+Bigrama
+0.580442982483

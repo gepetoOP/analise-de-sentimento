@@ -1,0 +1,5030 @@
+[
+    {
+        "translations": [
+            {
+                "text": "Vozes sobre a pars agora no Czao",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Os cariocas t\u00eam o que merecem, um povo que conhece apenas banhos de sol e pratica viol\u00eancia e n\u00e3o d\u00e1 viol\u00eancia a outro, onde voc\u00ea toma e nenhum dia termina.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.96,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea \u00e9 um tolo ou voc\u00ea sabe que ele e o executivo e quer interferir nos outros poderes estes sal\u00e1rios est\u00e3o associados com o texto constitucional, quando eles n\u00e3o informam mais que ele \u00e9 Santo, mas n\u00e3o t\u00eam vergonha de dizer algo que n\u00e3o s\u00e3o Saber",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Alexandre Acioni vai estudar para saber o que e comunista essas medidas de medo s\u00e3o piores do que o comunismo que voc\u00ea \u00e9 e outro pobre homem Spike a besta, que continua repetindo o mal, igual a um papagaio de repeti\u00e7\u00e3o",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.97,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "PEC da vidaaaa vida livre de mamata esquerda KKKKKKKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.78,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Outro ponto pobre do animal j\u00e1 n\u00e3o tem dinheiro e vai perder o bom tempo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vendas Martin parar de ser um tolo, ningu\u00e9m pode discordar com o medo de que e mortadela assim no pa\u00eds que pobre chique o animal defende o direito",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.96,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu n\u00e3o sou esse cara e um velho nojento ou",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Falou os deslocados que n\u00e3o conta em um concurso que ele ainda tentou dar mais n\u00e3o NE",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O FMI n\u00e3o \u00e9 respons\u00e1vel pela economia global que",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Cortes na carne nada para se preocupar, aqui no RJ o pacote de mal\u00edcia deixa ju\u00edzes pol\u00edticos e Leechen ganhando mais de mil por m\u00eas a partir dos cortes para que ferra com pobres e pensionistas sabem o que vai acontecer, as pessoas v\u00e3o acordar e este \u00c0s vezes n\u00e3o haver\u00e1 forca de desculpas e um monte de panca o Caddyshack sugador de sangue",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.93,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Paul voce e burro",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Defamation bate panelasyour burroswell feito",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este anta que est\u00e1 l\u00e1 agora s\u00f3 faz cada um de n\u00f3s sofrer como a festa vai embora em nossos sal\u00e1rios e leva seus amigos antasgolppists e atrevido com eles",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ningu\u00e9m se preocupa com voc\u00ea e sua m\u00e3e, o que n\u00e3o \u00e9 nada",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ele fica com o joelho engasgado",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vai pro Tank mulher Sonia",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Total deorientiert ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Amit Pandey seu Anencefalo seus coment\u00e1rios sempre me chateou ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Quer vida Facilva girar sacos em Avatlantica ou Varsha Jacob",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.91,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Aqui est\u00e1 como eles fazem essa prova suja de por que voc\u00ea sempre ser\u00e1 nossos escravos ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Da vontade a uma mandioca no RBBBBBBB",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "MARCOSVC n\u00e3o est\u00e1 cansado de ser est\u00fapido sawhalf para ser mau car\u00e1ter tem limites VCs foram varridos por ser incompetentemente corruptos e genocida canalhs",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.96,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mauro e dementekkkkkwer ta lutando por poder voc\u00ea est\u00e1 apoiando bandidos no poder",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Felizmente, temos o projeto para ferrar o povo de Cleptorrupto",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Marcos n\u00e3o precisa ser guerra fria fria e onde este depoimento nos derrubou de vermesas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Coloque o kit em seu corte",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mauro e negou Kkkkka guerra fria Sim terminou h\u00e1 muito tempo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Os prisioneiros do diabo, no entanto, dar aos doentes",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Falta ruelaa Zaher de argumentos e t\u00e3o grande como o recuo que ta sempre apoiar bandidos",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "As pessoas pequenas sempre cheiram a mortadels podre e n\u00e3o tomam banho",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Os restantes o resto insistem que querem continuar a prejudicar a p\u00e1tria ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Filho de um PTA porque n\u00e3o obstruir\u00e1 este ditador astuto de Coreia norte.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "S\u00e3o todos maldita esperan\u00e7a que eles v\u00e3o morrer e sofrer em breve",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Tudo o que os Petrels tocou, incluindo a paci\u00eancia das pessoas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este monossil\u00e2mico ser\u00e1 limpo na pr\u00f3xima elei\u00e7\u00e3o ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E o direito quer fingir a monop\u00f3lio de cinismo como se eles s\u00e3o profissionais se eles s\u00e3o tao ou mais ladr\u00f5es",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.95,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu desempregado e estes esquerdos enchem a mesa de pequenas caixas com porcaria.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Diz a essas pessoas, parar de ser chilique caber e ter vergonha na cara que palha\u00e7o e este",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.94,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este terrorista corrupto representa uma amea\u00e7a para o povo uruguaio honesto",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A barata viajou de primeira classe com o nosso dinheiro ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este anta incompetente ainda est\u00e1 solto",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esta Bolonha j\u00e1 tanto Cachaca Q n\u00e3o esta coisa falando com coisa ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Medo ta bom para o inferno NE Mutiny",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Marcos voc\u00ea nasceu assim ou bateu na cabe\u00e7a quando era crian\u00e7a ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "No Mortadella a esquerda-Winger fica Revoltadinha vem para o ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E t\u00e3o atrasado que o dia das bruxas comemorou no Uruguai em novembro",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Quantas horas de vassouras de Porto Alegre comeram Montevid\u00e9u",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Infelizmente, tudo Q n\u00e3o d\u00e1 nesta terra de IBOPE a este anta e prova v\u00edvida dela",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.94,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ser\u00e1 que ela ficou na casa de dedos em Punta del Este",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Saiba onde o dedo perdido \u00e9 perfurado em sua m\u00e3e kkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.91,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vai ser dif\u00edcil meu ha anos este no c\u00e9u o seu TA na zona",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu n\u00e3o acho que a barata deve ter alugado um hotel inteiro estrela",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Se isso permanecer por mais uma semana, o Uruguai entra em recess\u00e3o",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eles n\u00e3o v\u00e3o recrutar sua m\u00e3e, seu verme.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Um es Cro a estes e mesmo Wurm",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Saiba o que ela tem mais do que n\u00f3s, ela tem mais e QSF",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Junto com o medo de Idiot s\u00e3o as decis\u00f5es dos petralhas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Renovar Nino VC ler o peca ou mais um maiette esquerda vai com o outro ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Comunista defende o DEMOCRACIAKKKKK estes vermelhos s\u00e3o uma piada",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esta velha deve ter dinheiro. la Pedecana ganhou a casa de um gerente da RGS",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.93,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Recebido com lotes da grama e da \u00e1gua fresca   ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Aproveite e deixe esta Capivara l\u00e1 fora",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Os arruaceiros s\u00e3o reagrupados logo chefes n\u00e3o precisam saber por que o atraso",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "PQ o Morosita recebe ordens externas, a ordem ainda n\u00e3o chegou",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "PQ o Morosita recebe ordens externas, a ordem ainda n\u00e3o chegou",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Democracia bandido banco ladr\u00e3o Komplize ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Fique para este anta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "\"Porque o pequeno Firefly de puzta n\u00e3o vai dazr o CZU pro Capzeta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ela foi l\u00e1 para as mulheres de limpeza semanais na casa onde a toupeira permanecer\u00e1 escondida",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Espero que este infeliz vai ficar l\u00e1 e s\u00f3 voltar se for convocado pela Receita Federal",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O anta foi para o Uruguai para trabalhar o seu plano de fuga com seus companheiros e aliados.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Senta-se l\u00e1 Janete fret in\u00fatil destr\u00f3i vaca Brasil",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.62,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Deve ser cuidadoso que esta proibi\u00e7\u00e3o n\u00e3o \u00e9 sens\u00edvel \u00e0 venda de firmakosen do Brasil",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sua cruz vem a fazer na minha m\u00e3o, eu vou soc\u00e1-lo na cara de seu Porrrra feio",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este velho plano TA Armando de fuga para ela e para o pedecana ta no rosto para PF n\u00e3o v\u00ea",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Veja se ele nunca volta e vive na fazenda de conchas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Assembl\u00e9ia de comunistas e corruptos",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ai que eles ficam para o definitivo e tomar o molusco TB",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Cross Creed deste Turd",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Porque n\u00e3o \u00e9 o desagrado",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ta que fez a cama para e para o Moluscovai que",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O Zika-mosquita Windstocker tamb\u00e9m esta mudan\u00e7a pro Uruguai torna-se vizinho de moluscos",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.86,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este terrorista n\u00e3o ser\u00e1 preso por roubar e atrasar um pa\u00eds que logo morre dem\u00f4nio",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O que a velha senhora tem na m\u00e3o Oops desculpa tem no torso  ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Depois de legalizar a maconha agora Uruguai legalizou outra droga um pai a borda do penhasco ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Morre desonrado",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Obrigado por tomar o u\u00edsque bobo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Fui dar uma olhada em sua conta e aproveitando os benef\u00edcios vai ficar na casa do dedo em Punta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Puta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bruno nao e Kou e assimva tomam o seu GU",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sim tem programa hoje ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vire-se e eu vou apontar o dedo para o seu",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Pense em um chato mortadela Pothead ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.71,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea tem algum atraso ou estupidez, mesmo Mary",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esta Maria Santa degusta\u00e7\u00e3o de peba na pimenta de seu gelo Mallow ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.82,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mary vai lavar um louco ganhando mais ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Tem vergonha de sua Boyola infectada Pothead",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Quase sempre um Banky reconhece outro Banky e a queda do Rubinho",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.77,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O cara vai chupar um pau vai",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A barba desonestos \u00e9 aquele que aflige os pais mais",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ganhando duas vezes dos scammers eu entendo essa raiva",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Won PQ nordeste n\u00e3o sei como votar",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Venceu com bilh\u00f5es roubados da Petrobras BNDES e Furnas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.67,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu n\u00e3o sou seu irm\u00e3o, eu n\u00e3o fa\u00e7o irm\u00e3o Queer",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Com mais moralidade do que o Presidente da coxinhas KC",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E apenas ver o n\u00famero de avers\u00e3o ao seu coment\u00e1rio in\u00fatil e ver que h\u00e1 muito assimpalhaco moral ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Quena o Tirso este sentimento muito perdida no charuto de pequenos bra\u00e7os aceita que d\u00f3i menos",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.95,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Onde a vaca vai, o boi atrsta vai apaixonadamente",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Tirso tem pessoas comendo atrav\u00e9s de suas bocas, voc\u00ea certamente comer por tr\u00e1s",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A esquerda e fedorenta Rosanabandida",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este AI gosta de um charuto de Bolonha no meio de suas pernas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Minha esperan\u00e7a e que voc\u00ea era um troll, mas para ver que voc\u00ea e ignorante mesmo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Agora eu vi a habilidade do homem",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Red strategia Acefala outsource para jurar a culpa e adiar denegrirkkk bye",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.73,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Rashid voc\u00ea n\u00e3o tem um n\u00edvel ou para comentar sobre um tema deste e uma mulher pobre",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Coisa ruim eo m\u00ednimo de definila eu chamaria pregui\u00e7oso   ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ela e a autoridade m\u00e1xima do judici\u00e1rio n\u00e3o e Ministro da sa\u00fade ir\u00e1 inform\u00e1-la poucas becos",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Manteiga",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Rogerio ent\u00e3o ela tamb\u00e9m n\u00e3o e a Secretaria de seguran\u00e7a publica sua ignor\u00e2ncia ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.93,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mortadela nunca compreende NADAKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.75,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bandit tem mais e que peidando a Muzenga at\u00e9 mesmo resolver este problema de Superlotacao fazer pelo menos Carandiru por dia f\u00e1cil ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A pol\u00edcia civil do RJ, por exemplo, n\u00e3o tem nem privadamente a kaggar e esta Capivara ta preocupada com Bandit ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sergio Louren\u00e7o por favor, d\u00ea-me o exemplo e tomar meia d\u00fazia dessas v\u00edtimas da sociedade para a sua faca de casa uma Coca-Cola nele liberar o anel de couro de groselha Soft show que tem cora\u00e7\u00e3o ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.94,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ricardo sua pena e VA GA Bun um n\u00e3o annula do outro",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O Roberto ama a palavra acefalo de tanta escuta que ele incorporou no vocabulario pobre e n\u00e3o cultivado",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Estou torcendo por um estu coletiva eu j\u00e1 comprei v\u00e1rios lol azul",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.93,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Fancy porq n\u00e3o vai visitar as v\u00edtimas dessas meias pat\u00e9ticas ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Inversao de valores na inves desta velha visita hospitais asilo instala\u00e7\u00f5es para visitar orfanatos Presidios est\u00e1 localizado na ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Os moluscos v\u00e3o manter a cadeia lotada e n\u00e3o entrar no pint come\u00e7ou a visitar os outros antes",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Assim, esta cobaia judaica est\u00e1 faltando da luz para sua casa no mar do Sul",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A esc\u00f3ria apoiando o golpe, ent\u00e3o fale merda",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este est\u00fapido n\u00e3o tem nada a ver",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sempre dizer que a mulher feia geralmente dar Problemanao ha quase exce\u00e7\u00e3o someoneatem alguns que quando a presidencia da Rep\u00fablica DAO tanto problema que voc\u00ea n\u00e3o acredita",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.97,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Kkkkkkk imediatamente quebrou seu coment\u00e1rio idiotice",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O cara joga muito, mas fode bum bum ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O que um coment\u00e1rio de brincadeira foi que um monte de futebol europeu precisa acompanhar para fazer um coment\u00e1rio sobre ele",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea come merda para falar bobagem assim",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bianca diese Ronaldetes me DAO nojo nojento catraca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Lugar da mulher e no dissipador e na cama",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O lugar de Ezequiel de mulher e onde eles entendem bem quando d\u00f3i, todas as verdades PQ falou sobre o seu Machlsta gay pouco Idoyo n\u00e3o chora",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.96,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vai lavar dona louca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mary est\u00e1 no CIO eu sou louco por Mary",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Maria vista que biqu\u00edni que eu uso hoje princesa",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "UI nooooooofa que lindo bonito nosso Gerv\u00e1sio e Mara ne amiga rajkazblanks ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mary observou vai beijarumsacov",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ir para tomar o seu velho rem\u00e9dio Gaga KKKK SV",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Infelizmente ve Vizeu no banco, durante este esterco do guardi\u00e3o nerd os n\u00fameros n\u00e3o sem ele o Flamengo e Maphosa com ele Menguinho",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Maria Rita Ribeiro de Souza",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Assinado Baccara tolos KKKK SV",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Se o juiz tivesse culpado a puni\u00e7\u00e3o, essa merda n\u00e3o falaria assim.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "M\u00e3e Xozota ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O flam e o R D A aproveitar\u00e3o os ju\u00edzes e as bandeiras do profissional em ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Era o cheiro da m\u00e3e Bucelta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Forshals de xincheiro",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu sinto a terceira Grader flamenga de Nordestinies fedorento, que pensa que e carioca da gema, se n\u00e3o \u00e9 apenas uma equipe que tem mais identifica\u00e7\u00e3o com o nordeste do que com o rio quando voc\u00ea fala em l\u00edngua flamenga, obter um monte de Stinky e sem \u00e1gua Apresentando Framengo e com camisa de camelo, o Vasco e o Botafogo respeitam este Sim, quando falam no Rio de Janeiro, recorda-lhes Sauda\u00e7\u00f5es cor\u00edntias",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.96,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Hahahahahahahahahahahahah Gazelle investiga",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.67,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este e um grande em um curto espa\u00e7o de tempo, ele fala que quando o Leicester ganhar os campe\u00f5es ele de UUC",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.95,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este negro e seu pai sua m\u00e3e deu a ele quando ele era jovem",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea est\u00e1 na zona onde seu frango",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ah vai se Fu de voc\u00ea",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Hey Framengo n\u00e3o vai lidar com o cheiro de Turd de piscina Camping de ramos kkkkkk este Taka e para o seu nariz kkkkk ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.82,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O Rubronecas Piiiiiiiiira com cheiro de porco epum",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mulambos ver o cheiro de HEPICANUNCUO kkkkkkkkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.86,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sinta o cheiro do meu peido Alver ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.86,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sente o cheiro de fazendeiro de porco em seus rostos KKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Flamerdas voc\u00ea tem, por isso n\u00e3o tem potty proprio kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea e uma pessoa doente",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A m\u00e3e dela n\u00e3o reclama do Jackson.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ragnar e transvestite nome Escandin\u00e1via",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Apenas provou a estupidez que o impressiona",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Menos um, mas deve queimar seu corpo logo antes de chegar \u00e0 porta do ainda conhecido e pol\u00edtico tamb\u00e9m do inferno",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Faltando eu sou Ga\u00facho e ter marido",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Os investigadores est\u00e3o olhando para o fato de que Vcefdpta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esta AI senta-se na boneca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A do Quiibii KKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.75,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Paulo Vai zu Mar no c UU",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.86,
+            "language": "pt"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Porque voc\u00ea acha que precisa para come\u00e7ar a protestar sua vida deve ser muito bom, porque para a maioria destes suga  ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Choque de Lacker neste velho hip\u00f3crita",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esses malditos bastardos",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Michelle Temmer Safadao traira",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.75,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Reforma estrutural em seu rbbono",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Hmmmmmmmmmmmmmish e um Bichna",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": " Ent\u00e3o, e a loja tapir",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E o pequeno neg\u00f3cio da m\u00e3e, a prostituta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Boca de Buxeta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.67,
+            "language": "es"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O direito seria mole Bun",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E o Piaui que quer assustar o mundo com esta figura ou algo nasce pessoas feias la",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.94,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Essa boca fala e cospem sem contar uma m\u00e1 falta de ar fedorento",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mesmo com um nome feio desta boca macia Heraclito virou louvor a este ladr\u00e3o KKKKKKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.93,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esta boca esbelta tem um rosto de saco murcho",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O vermelho de perturba\u00e7\u00e3o deve ser disparado na cara do bandido ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "para carimbar",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Dem\u00f4nios sapo seria mais apropriado",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A boca macia e a mesma linha de neve",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este desonestos e outros tiveram que ser filmados em pubs praca     ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Froschmaul",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sera que o rato fica ofendido quando eu fa\u00e7o uma compara\u00e7\u00e3o com este bando de porcaria falando",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Nadar em dinheiro, ent\u00e3o cham\u00e1-lo de uma boca macia e que menos mat\u00e9ria e um rato banhou",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Boca mais pr\u00f3xima",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Parece mesmo uma r\u00e3 da testa",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bandido unemped ainda mais bandido e que vota em uma desgra\u00e7a de ETA este povo burro ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Pol\u00edtica de profiss\u00e3o ta no final da carreira e do Piaui o adora eh boca mole eheheheh",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.82,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Paga muito BoQ na cadeia por outros detentos com esta boca inchada por Buc",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.93,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea e Naio ou um perfeito tolo ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esta gordura morre atrav\u00e9s da boca ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Entally fraco ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.5,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Morra ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "it"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Melhor seria c u ap\u00f3s a diarreia",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu j\u00e1 tinha um apelido aqui em casa para ele arranjado Ocuquefala",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E h\u00e1 uma mulher que se encontra com Thisund o todo feio uma filha Lindaso n\u00e3o sabe se e sua",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "S\u00f3 para vomitar no rosto desse cara j\u00e1 do impulso",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Pior do que eu acho que n\u00e3o s\u00f3 a boca, o e suavemente mais feio do que isso, assim que o Cervero",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.94,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Melhor do que qualquer coisa feia, mas no Bureau eles v\u00e3o dar-lhe outro apelido, ruim de Bokket",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "N\u00e3o deve ser apenas a boca que sobe ainda mais eo modelo falecido",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Al\u00e9m de tudo e desencorajado esta coisa boca gel\u00e9ia",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "De prefer\u00eancia vendo a Lula morta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Cosmo Santiago longe da mortadela e vai procurar emprego ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Estes Petebas s\u00e3o piores do que os recifes de carros de burro",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E isso denuncia burrao",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O pior e que e o quinto ele n\u00e3o pode contar com os dedos da m\u00e3o faltando kkkkkkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.95,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "N\u00f3s o queremos morto.",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "ONU kkkkkkk ONU e porcaria ea mesma coisa que seu anta",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.82,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ele vai sentir o Peru chegando",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O moro vai sentir o peru do Aecio ENTRARKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Carline Antinha um servi\u00e7o do Petebas rid\u00edculo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.86,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Joao retard cuida de gangues que este ataque do Brasil ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Coxinhas e Mortadella s\u00e3o tamales",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.57,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Toda mortadela e v\u00edtima de sua pr\u00f3pria ignor\u00e2ncia",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Concordo com Carlos aqui e lavagem cerebral para burros",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu vou celebrar a pris\u00e3o deste mebarbudo mais do que o ano novo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Olha, h\u00e1 uma alfafa esquerda-Hander cmedor negativo me  ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "B\u00eabado Creolin Malucova estudar pol\u00edtica",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este tempo de cabra pr\u00f3ximo velho nojento",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Quesefodaessefdp e quem gosta e defende TBM",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "G Scoundrels e o Commentarii LA",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E um monte de porcaria, mesmo no m\u00ednimo e no norte ou nordeste que isso funciona eo bom n\u00e3o a vida do bolsa familia, assim vai votar para o Luladrao",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.97,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Hugely gozador este Daniel Alcantara, mas se n\u00e3o \u00e9 divertido, eu te digo Daniel p\u00e1ra de falar porcaria Daniel",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.95,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea que favor boiola KKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.75,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Cara gay e voc\u00ea e seu pai",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Saber o que e privil\u00e9gios F\u00f3rum seu burro Turd",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vai dar Viagra de por Lulao mas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O Filhodaphuta do Brasil ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ai Mad ta Uptight",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Luis e mais um que pegou o burro encantador",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eduardo alfalfa Speisesaal RS",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.75,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O burro encantador levou mais dois",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Boisonso est\u00e1 errado sobre o uso do Virgolas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Toupeira do asno do asno",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mulher gorda est\u00fapida e ignorante ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Por favor n\u00e3o abra as portas para que os burros est\u00fapidos e silenciados n\u00e3o saiam",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Al\u00e9m de burros e illiteratos",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Donkey hahahahahahaha",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.5,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Primeiro aprenda a escrever ignorantemente",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Lambendo suas bolas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O que um tolo abstate e voc\u00ea ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Lave sua panela de vaca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E voc\u00ea e um idiotao",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Isso nunca foi dito est\u00fapido miser\u00e1vel",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Shaneesh vindo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Lizzie ISST Turd",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.67,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Alienado ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Alienado ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este Juizeco do moro e um Rogue",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Tinha que ser Baianoputz que povinho",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O maior ladr\u00e3o de KKKKK para ganhar a morte ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.86,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bruno cria um c\u00e9rebro e pensa",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O mal vai estudar a sua ignor\u00e2ncia",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Silvio que ferrou seu burro",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Feche esta boca de burro",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Pobre burro Neque suporta o direito",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Oh doar um dos burros encantado pelo ladr\u00e3o",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "  Gabriel voc\u00ea precisa ser um grande covarde se voc\u00ea peidar-se todos os lisonjear          ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.85,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este burro ainda tem o meu nome ta a cadela",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Uma, a est\u00fapida",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Psico seu louco ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "S\u00e3o Paulino gosta de esfaquear pessoal",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Flam e R d Aflaf e Z e Sexcremengo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Voc\u00ea precisa se deixar para tr\u00e1s  ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Tuck-lo em Rab sua m\u00e3e",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Nosso tudo que eu vejo no lado Fluminense s\u00e3o mulambos com nada a ver, porque em vez de falar merda nos lados das outras equipes vai fazer uma coisa produtiva",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.97,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O \u00fanico argumento que este Turd tentou ter e um cliente que eu falo que a par\u00f3quia kkkkkkkk as demos constantes t\u00eam esses f\u00e3s do VasquInhO debiloides KC",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Andre Bong bateu para fora se diminui a fuma\u00e7a TA dif\u00edcil",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu defini VC Okoh ou su amae",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.71,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "SRN Sou a R a B u d a Do Negao",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.91,
+            "language": "pt"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu entreguei sua esposa e eu deixei meu g o Z a D um",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Jkkkkkkturd Clubenao tem dinheiro para alugar para comprar camisa, mas tem estadiokkkkkkvice eternojoke do Brasil em segundo lugar eu volto",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "P I R a n h a",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "cy"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Trens em um corredor viu voc\u00ea obter o CT doente pronto",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Inveja de um peda\u00e7o de merda que vai voltar para o seu lugar segundo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Outro jogo e os FLAF e Z e S sem preparo G L o b o",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Segure a aba ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Outro burro que n\u00e3o sabe nada sobre este Arthur",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este esquadr\u00e3o todo mundo gosta de dar em sua cauda",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E voc\u00ea e analfabeto",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mas em S\u00e3o Paulo o apressado come c u",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Anup Zacharath o famoso Corneca Cornobald",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Intersembled dos alvos as redes do Cothigh o Coritibibas o mais abaixado coritibichascocouto porqueira",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.93,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Trakinas Eater",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "pt"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Walter deve bat, sumo poderia obter por",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O Krishna ainda vai rir, ele n\u00e3o pode ficar",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Manteiga",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bum este Walter",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este sorriso Sonata nunca deve ter visto nem jogado futebol Marcelo e Daniel Alves tocando por anos em equipas l\u00edderes da Europa j\u00e1 ganharam DS os t\u00edtulos foram v\u00e1rias vezes na sele\u00e7\u00e3o do mundo e vem essa merda Talk q eles s\u00e3o ruins",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Karen vai lavar o louco Q ta sujo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "N\u00f3s trazemos uma outra AI que n\u00f3s gostamos do para NELESKKKKKKKKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ta com cara do que farofa KKKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.75,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Retorna meu desocupado Nick",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Aprenda a escrever cavalo ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "VC e bi da b nenhum mundo repreende KKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Al\u00e9m de um mundo sem bi de verde Slug B kkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Nossa anselma bibona invejoso sem criatividade",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Esta mina tem a parede do cavalo ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ricardo tem um rosto de cavalo, mas um potranca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Jogando o milho e sentando-se na espiga NE Maria",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Cheiro de coco aqui",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Seu nome j\u00e1 dizia que todos e uma Maria ainda",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "William seu Idiot",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Laura Dumber",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Alo voc\u00ea vai colocar ovos seu frakast ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Manist cai enorme nunca KKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bi sexual NE e o \u00fanico bi que VO tem Mane",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Com estes alugu\u00e9is, os pulpels em Oi",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Hora de mim R",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vendido foi sua m\u00e3e, a vaca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Chupando uma banana bixo hist\u00e9rica",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E um monte de idiotice para um cara t\u00e3o KKKKKKKKKKKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Adinaldo bibinha",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sim n\u00e3o o suficiente um senador cagando para uma decis\u00e3o do STF agora um advogado prop\u00f5e em frente \u00e0 frente com um juiz KKKK Brasil um pa\u00eds de valores inversao",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Joao Ostral um empurr\u00e3o assumiu a beleza ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ahh esquece bum n\u00e3o funciona",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Sua batata j\u00e1 aqueceu seu b\u00eabado e ladr\u00e3o da Povocadeia neles Drsergio moro ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Derrotas pelo dedo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E com os arquivos faz algo diferente",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E os vermes do PSDB aaaa que n\u00e3o entram no caso  ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Adoooooooooro Cala boca Fela da P",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Bandido advogado e bandido iguais e precisa de erradica\u00e7\u00e3o",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O tolo manipulou",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu acho que o Aecio n\u00e3o chamou o Juizeco hoje ta dar Piti de saudades kkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.73,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O tolo manipulou",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A mamis Sim era ne, mas eu chamo sua esposa de mamis n\u00e3o sabe nada inocente",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Adiaddo o apelo no final permanece firme e forte ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Como sua mamis um enrugamento indestrut\u00edvel KC",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ruy VC acredita no Jap da Federal TB NE Donkey",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Em seu Stinky J\u00fanior que UI e sua pr\u00f3pria gayness",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O furo da coxa ferido",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Furo de PETA ferido",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Dia do seu homem Will Aprive esperando lenco pro chora Human Dung",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Alexandre este louco assim pode perfil titica quando as crian\u00e7as comem",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Confira se ele j\u00e1 tinha sido preso como este e esquartejou o Luladrao e KD ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E que aqui Raphael estes cheios de analfabetos querem pitaco",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "J\u00fanior em nome e marmota coberto de atitude ooooooo submiss\u00e3o",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.82,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Tratando os doentes",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eterno alienado e analfabeto petralhas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Andre tu e um animal  ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "A so e Small animal Square ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "E muito boa visibilidade mortadela desesperada nervoso nos coment\u00e1rios alheioskkkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.91,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "La vir outro efeminado PETA invadir coment\u00e1rio Obliviio voleibol nojentaaaa",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Quando o seu retorno me a mudan\u00e7a de R para o servi\u00e7o oral que eles me fizeram",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Quando ele abusa de sua m\u00e3e reclusiva",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Aluisio tu es um verdadeiro Idiot",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "es"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Adilsoncamana kkkkkkkkkkk wieder Defe Cando Mortadella",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "pt"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Anup Sen voc\u00ea tem alguns juniiorizinhos aqui",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.88,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Paul dispensado vai seu c u",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Todos com o nordeste s\u00e3o sempre os bandidos todos no sudeste",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ainda n\u00e3o joga nada que snobist o Brasil espanhol de merd",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Este bofe de Jo\u00e3o Paulo al\u00e9m da beleza deve ser um maravilhoso Paul Noizinhas do Maphosa n\u00f3s amamos Srnsomos rabudas negao DCM di\u00e2metro Crfcheirinho r Fetdida",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.8,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Maphosa Noizinhas temos um urubu que Nku para os jogos deste ano contra os outros clubes das outras equipes que precisamos tomar Nku ou deixe Nku por favor o que devemos fazer Srnsomos rabudas negao DCM di\u00e2metro Crfcheirinho R Stinky",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.81,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O foguete tem o kkkk Conmeturd",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Conca Ta Bixado manekkkkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "pt"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Menor fica o meu Prasanta, quanto mais da metade j\u00e1 no docusso da m\u00e3e",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Como o Palt\u00e3o bi \u00e9 rebaixado, continua sem um Derek mundial",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.82,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Chola mais flores",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vai procurar um para amamentar Freddie Mercury e saber o melhor como fazer Rubroneca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.94,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Babao velho para falar bobagem do nosso lado",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Boneca do sonho",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "AA que os Tricoletes s\u00e3o descontrolados",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "N\u00f3s j\u00e1 temos um fervoroso",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Rubronecas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vai retocar a maquiagem Trib do Frou-Frou n\u00e3o comer quem ele e comeu ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.87,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "TAMI CABRAL",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "\u00cddolo de Fudinense e Serie B n\u00e3o teve que cair no Justicao",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "As rosquinhas dos tricolets queimam por causa da lata de Conca   ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Cotovelo e pequena flor Ding Einmimimimi ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "As flores estavam chateadas Umanath",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mulambos brinadores pagam uma Serie B",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.83,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Mulambos n\u00e3o ap\u00f3s a primeira fase de liberta\u00e7\u00e3o que Vera viver permanecer\u00e1 assim no cheiro de novo Frameigo do clube mais perfumado no Brasil KKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.92,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Megos eles s\u00e3o, mas perfumado n\u00e3o fede o urubu",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.89,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu quero Abel brucubcoaching esta equipe de bonecos n\u00e3o est\u00e1 certo ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ent\u00e3o eu digo mais alguns Fdss",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Seu burro flamengo n\u00e3o pagar\u00e1 o sal\u00e1rio de Conca na \u00edntegra, e ele n\u00e3o vai receb\u00ea-lo at\u00e9 que ele come\u00e7a, falar bobagem n\u00e3o",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ele vai beneficiar graca kkkkkk seu retardado em seis meses, ele vai beneficiar mais ricose vcs sem uma vit\u00f3ria eo cheiro de joelhos podres aumenta o custo zerounderficado Sid noiakkkkkkta com diarreia mentalkkkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.91,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Kkkkkk com esses caras que querem jogar no Fudinense ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.9,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Fudinense e os melhores KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKJKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKJKKKKKKKKKKKKN kkkkkkkkkkkkkkkkn. de kkkkkkkkkkkkkkkkn KKKKKKKKKKKKKKKKKKKKKKKKKKKK KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK kkkkkkkkkkkkkkkkk KKKKKKKKKKKKKK kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkn... C., KKKKKKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.86,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Calcinha de sua m\u00e3e eu levei um longo tempo e com facilidade perguntar-lhe",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "O antepassado desta cadeira esqueceu de enxaguar, se ele caiu no encanamento Obs, ela n\u00e3o usa calcinha",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Do flamengaysta grande apenas como ele mesmo e cheering dos rubronecas n\u00e3o importa se e esquerdo ou direito torcido, mas deve ser grande",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Arruinar a calcinha do tricoflorzinhas",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Curto deve ser um tolo",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Total de viage que AI",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Torcer para o claustro e rosto do Aldo alguns chutes baixos do brazuca Sim s\u00e3o suficientes para destruir os joelhos da Cruz e, assim, acabar com a carreira da disgra\u00e7a ",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.97,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ele chamou por tr\u00e1s da escola e sentou-se nos meninos KKK",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.91,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Viadage Meister Essa de VCs kkkkk",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "pt"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vergonha rid\u00edcula para a fam\u00edlia e o filho",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Velcro glum perdeu o meu respeito",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Fufa",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "en"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Canta junto quando ele tinha litros de porra",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Vai roubar a neve tamb\u00e9m",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Arruinando a paisagem",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Tamb\u00e9m Stollen a neve Brancamacaca",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Lixo da CRL",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 0.5,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Ela faz isso para parecer n\u00e3o e gay, n\u00e3o e uma vergonha que sim",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "De volta a sua gaiola de macaco, eu recebo meu Xicote voc\u00ea fodido preto",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Eu pensei que o macaco estava apenas vivendo na floresta ou no zool\u00f3gico",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    },
+    {
+        "translations": [
+            {
+                "text": "Espere por esta neve derreter e us\u00e1-lo para lavar loucamente",
+                "to": "pt"
+            }
+        ],
+        "detectedLanguage": {
+            "score": 1.0,
+            "language": "de"
+        }
+    }
+]

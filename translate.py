@@ -23,12 +23,12 @@ path = '/translate?api-version=3.0'
 params = '&to=pt'
 constructed_url = base_url + path + params
 
-dataset = open('espanholOFF2.txt','r')
+dataset = open('alemaoOFF2.txt','r')
 palavras = []
-classes = []
 for x in dataset:
-	palavras.append({'text': x})
+	palavras.append({'text': x[:-1]})
 	# classes.append(x[0])
+print(palavras)
 headers = {
     'Ocp-Apim-Subscription-Key': '9bd0a5266aac4af0b89a062e4af519b3',
     'Content-type': 'application/json',
@@ -47,7 +47,7 @@ headers = {
 iteracoes = floor(len(palavras) / 25)
 tamanho = len(palavras)
 lista = {}
-f = open('espanholParaPortuguesOFF2.txt','a')
+f = open('alemaoParaPortuguesOFF2.txt','w')
 # print(int(iteracoes))
 # print(tamanho)
 for i in range(int(iteracoes)):
@@ -57,7 +57,6 @@ for i in range(int(iteracoes)):
 	response = request.json()
 	print >> f, json.dumps(response, sort_keys=False, indent=4, separators=(',', ': '))
 if(fim != tamanho):
-	# print('argo')
 	request = requests.post(constructed_url, headers=headers, json=palavras[fim:])
 	response = request.json()
 	print >> f, json.dumps(response, sort_keys=False, indent=4, separators=(',', ': '))
