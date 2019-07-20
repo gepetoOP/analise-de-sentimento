@@ -1,0 +1,96 @@
+OffComBR2
+{'radical': False, 'balanceado': False, 'sw': False, 'ig': False}
+Unigrama
+0,6880101350561951
+0,008547896163488866
+Bigrama
+0,6728436740703544
+0,003490895819048306
+OffComBR2
+{'radical': True, 'balanceado': False, 'sw': False, 'ig': False}
+Unigrama
+0,6967147538065055
+0,0033410184707770197
+Bigrama
+0,6999909995260902
+0,00331659645189656
+OffComBR2
+{'radical': False, 'balanceado': False, 'sw': False, 'ig': True}
+Unigrama
+0,7613734200429334
+0,006068725100305803
+Bigrama
+0,7442079870977292
+0,0057071702719522985
+OffComBR2
+{'radical': False, 'balanceado': True, 'sw': False, 'ig': False}
+Unigrama
+0,6826897632119502
+0,008659082241948843
+Bigrama
+0,6523188105814095
+0,006151944291764521
+OffComBR2
+{'radical': False, 'balanceado': False, 'sw': True, 'ig': False}
+Unigrama
+0,6964131504616083
+0,0064202379021387175
+Bigrama
+0,6851587180552066
+0,0035459545103240756
+OffComBR3
+{'radical': False, 'balanceado': False, 'sw': False, 'ig': False}
+Unigrama
+0,7283035728173594
+0,004458151979978445
+Bigrama
+0,7146820760374111
+0,005005678197621461
+OffComBR3
+{'radical': True, 'balanceado': False, 'sw': False, 'ig': False}
+Unigrama
+0,7329578067501751
+0,006276876545327729
+Bigrama
+0,7215763420934578
+0,006501156554945171
+OffComBR3
+{'radical': False, 'balanceado': False, 'sw': False, 'ig': True}
+Unigrama
+0,7214518928382672
+0,009202827148611504
+Bigrama
+0,7404111461909675
+0,006111162024252658
+OffComBR3
+{'radical': False, 'balanceado': True, 'sw': False, 'ig': False}
+Unigrama
+0,7200840726475362
+0,006602937471742433
+Bigrama
+0,693101461689761
+0,0034570623708018488
+OffComBR3
+{'radical': False, 'balanceado': False, 'sw': True, 'ig': False}
+Unigrama
+0,7338252992293636
+0,007263303751000191
+Bigrama
+0,7194150524902844
+0,006221683007693242
+pt-de-BR2
+{'radical': False, 'balanceado': False, 'sw': False, 'ig': False}
+Unigrama
+0,6462885295900224
+0,011229975787153347
+Bigrama
+0,6332095940356848
+0,010033652313859717
+pt-de-en-in-BR3
+{'radical': False, 'balanceado': False, 'sw': False, 'ig': False}
+Unigrama
+0,6817006915995295
+0,007767867422662144
+Bigrama
+0,6666384097279968
+0,006364533850652065

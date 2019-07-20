@@ -1,0 +1,144 @@
+OffComBR2
+{'radical': False, 'balanceado': False, 'oversampling': False, 'ig': False}
+Unigrama
+0,7597831441011088
+Bigrama
+0,7393677573328442
+OffComBR2
+{'radical': True, 'balanceado': False, 'oversampling': False, 'ig': False}
+Unigrama
+0,7661702247852632
+Bigrama
+0,7695168010989198
+OffComBR2
+{'radical': False, 'balanceado': False, 'oversampling': False, 'ig': True}
+Unigrama
+0,8365401625772144
+Bigrama
+0,8259794327064501
+OffComBR2
+{'radical': False, 'balanceado': True, 'oversampling': False, 'ig': False}
+Unigrama
+0,6982555414883225
+Bigrama
+0,6969377700600564
+OffComBR2
+{'radical': False, 'balanceado': False, 'oversampling': True, 'ig': False}
+Unigrama
+0,7174376049553575
+Bigrama
+0,7070707353618052
+OffComBR2
+{'radical': True, 'balanceado': False, 'oversampling': False, 'ig': True}
+Unigrama
+0,8068688630150456
+Bigrama
+0,8107816973697675
+OffComBR2
+{'radical': True, 'balanceado': True, 'oversampling': False, 'ig': False}
+Unigrama
+0,7565249963074577
+Bigrama
+0,7365102496152597
+OffComBR2
+{'radical': True, 'balanceado': False, 'oversampling': True, 'ig': False}
+Unigrama
+0,7047703534990905
+Bigrama
+0,7174168538368793
+OffComBR2
+{'radical': False, 'balanceado': True, 'oversampling': False, 'ig': True}
+Unigrama
+0,8556058589770054
+Bigrama
+0,8502864514939
+OffComBR2
+{'radical': False, 'balanceado': False, 'oversampling': True, 'ig': True}
+Unigrama
+0,7636511679789709
+Bigrama
+0,7461129570548646
+OffComBR2
+{'radical': True, 'balanceado': False, 'oversampling': True, 'ig': True}
+Unigrama
+0,7439662875835513
+Bigrama
+0,664902663422098
+OffComBR2
+{'radical': True, 'balanceado': True, 'oversampling': False, 'ig': True}
+Unigrama
+0,829005042912509
+Bigrama
+0,8438460387647959
+OffComBR3
+{'radical': False, 'balanceado': False, 'oversampling': False, 'ig': False}
+Unigrama
+0,7926433781491753
+Bigrama
+0,7856013346035133
+OffComBR3
+{'radical': True, 'balanceado': False, 'oversampling': False, 'ig': False}
+Unigrama
+0,7995600190711256
+Bigrama
+0,7950244477920133
+OffComBR3
+{'radical': False, 'balanceado': False, 'oversampling': False, 'ig': True}
+Unigrama
+0,7897975042597964
+Bigrama
+0,8095864644008886
+OffComBR3
+{'radical': False, 'balanceado': True, 'oversampling': False, 'ig': False}
+Unigrama
+0,6560509519882294
+Bigrama
+0,637677035008881
+OffComBR3
+{'radical': False, 'balanceado': False, 'oversampling': True, 'ig': False}
+Unigrama
+0,7485571178686452
+Bigrama
+0,7442177328030186
+OffComBR3
+{'radical': True, 'balanceado': False, 'oversampling': False, 'ig': True}
+Unigrama
+0,8071015747794281
+Bigrama
+0,7809333083332956
+OffComBR3
+{'radical': True, 'balanceado': True, 'oversampling': False, 'ig': False}
+Unigrama
+0,6899550233037306
+Bigrama
+0,6964846746309565
+OffComBR3
+{'radical': True, 'balanceado': False, 'oversampling': True, 'ig': False}
+Unigrama
+0,7762704877118487
+Bigrama
+0,7650989337713725
+OffComBR3
+{'radical': False, 'balanceado': True, 'oversampling': False, 'ig': True}
+Unigrama
+0,8324639917120669
+Bigrama
+0,8355579095936376
+OffComBR3
+{'radical': False, 'balanceado': False, 'oversampling': True, 'ig': True}
+Unigrama
+0,6716098971508601
+Bigrama
+0,6897332626703815
+OffComBR3
+{'radical': True, 'balanceado': False, 'oversampling': True, 'ig': True}
+Unigrama
+0,6379241702270726
+Bigrama
+0,6602131455129974
+OffComBR3
+{'radical': True, 'balanceado': True, 'oversampling': False, 'ig': True}
+Unigrama
+0,8863088116298036
+Bigrama
+0,8272043588646538
