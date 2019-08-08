@@ -8,7 +8,6 @@ import math
 import random
 import string
 import codecs
-import goslate
 import operator
 import collections
 import pandas as pd
@@ -16,57 +15,22 @@ from io import StringIO
 import arff, numpy as np
 from unidecode import unidecode
 import matplotlib.pyplot as plt
-from nltk.corpus import *
 import concurrent.futures
 from nltk.util import ngrams
 from collections import Counter
-from googletrans import Translator
+#from googletrans import Translator
 from nltk.tokenize import TweetTokenizer
 from sklearn.model_selection import KFold
-from nltk.metrics import BigramAssocMeasures
-from Aelius import Extras, Toqueniza, AnotaCorpus
+#from Aelius import Extras, Toqueniza, AnotaCorpus
 from nltk.metrics.scores import precision, recall, f_measure
 from unicodedata import normalize
-# from scipy.io import loadarff 
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import chi2
 import nltk.classify
 from sklearn.svm import LinearSVC
 from sklearn.utils import shuffle
-
-punctuation = list(string.punctuation)
-stop = stopwords.words('portuguese') + punctuation + ['rt', 'RT', 'via']
-
-emoticons_str = r"""
-    (?:
-        [:=;] # Eyes
-        [oO\-]? # Nose (optional)
-        [D\)\]\(\]/\\OpP] # Mouth
-    )"""
-
-regex_str = [
-    emoticons_str,
-    r'<[^>]+>',  # HTML tags
-    r'(?:@[\w_]+)',  # @-mentions
-    r"(?:\#+[\w_]+[\w\'_\-]*[\w_]+)",  # hash-tags
-    r'http[s]?://(?:[a-z]|[0-9]|[$-_@.&amp;+]|[!*\(\),]|(?:%[0-9a-f][0-9a-f]))+',  # URLs
-
-    r'(?:(?:\d+,?)+(?:\.?\d+)?)',  # numbers
-    r"(?:[a-z][a-z'\-_]+[a-z])",  # words with - and '
-    r'(?:[\w_]+)',  # other words
-    r'(?:\S)'  # anything else
-]
-
-regex_url = [
-    r'<[^>]+>',  # HTML tags
-    r'(?:@[\w_]+)',  # @-mentions
-    r"(?:\#+[\w_]+[\w\'_\-]*[\w_]+)",  # hash-tags
-    r'http[s]?://(?:[a-z]|[0-9]|[$-_@.&amp;+]|[!*\(\),]|(?:%[0-9a-f][0-9a-f]))+',  # URLs
-]
-
-remove_re = re.compile(r'(' + '|'.join(regex_url) + ')', re.VERBOSE | re.IGNORECASE)
-tokens_re = re.compile(r'(' + '|'.join(regex_str) + ')', re.VERBOSE | re.IGNORECASE)
-emoticon_re = re.compile(r'^' + emoticons_str + '$', re.VERBOSE | re.IGNORECASE)
+from pre_processa import *
+from extracao_de_caracteristicas import *
 
 def aumenta_dados(indices,ind_balanceado,dataAugmentation,train_data):
     base_de_dados = dataAugmentation['nome_do_dataset']
@@ -94,7 +58,7 @@ def aumenta_dados(indices,ind_balanceado,dataAugmentation,train_data):
     listaUnigrama = list(dataset.dicUnigrama)
     listaBigrama = list(dataset.dicBigrama)
     for i,frase in enumerate(frasesParaAumentar):
-        unigramas = [term for term in preprocess(remover_acentos(frase).lower().encode('utf-8'), radical, False) if term not in stop and len(term) > 1]
+        unigramas = [term for term in preprocess(frase.lower().encode('utf-8'), radical) if term not in stop and len(term) > 1]
         bigrama = list(nltk.bigrams(unigramas))
         bigramas = [' '.join(item) for item in bigrama]
         bigramas.extend(unigramas)
@@ -142,39 +106,6 @@ def instancia_dataset_arff(nome):
     )
     return df_data
 
-def remover_acentos(txt, codif='utf-8'):
-    return normalize('NFKD', txt.decode(codif)).encode('ASCII', 'ignore')
-
-def tokenize(s):
-    return tokens_re.findall(s)
-
-def best_word_feats(words, bestwords):
-    return dict([(word, True) for word in words if word in bestwords])
-
-def preprocess(frase, radical,temStopwords,lowercase=True):
-    if(not temStopwords):
-        frase = remove_re.sub('',frase)
-    tokens = tokenize(frase)
-    if radical:
-        return [stemmer.stem(token.lower()) for token in tokens]
-    else:
-        return [token.lower() for token in tokens]
-    
-    # return tokens
-
-def balancear_dataset(dataset):
-    positivos = dataset[dataset.Classificacao == 'no']
-    negativos = dataset[dataset.Classificacao == 'yes']
-    qtdNegativos = len(negativos)
-    qtdPositivos = len(positivos)
-    if qtdNegativos < qtdPositivos:
-        tam = qtdNegativos
-    else:
-        tam = qtdPositivos
-    positivos = shuffle(positivos)
-    negativos = shuffle(negativos)
-    return positivos[:tam].append(negativos[:tam])
-
 def conta_positivos_e_negativos(featureset):
     qtdPositivos = 0
     qtdNegativos = 0
@@ -190,42 +121,6 @@ def conta_positivos_e_negativos(featureset):
             else:
                 tamanhos[tipo]['qtdPositivos'] +=1
     return tamanhos
-
-def extraiFeatures(dataset,balancear=False):
-    featureset = {}
-    featureset['Unigrama'] = []
-    featureset['Bigrama'] = []
-    data = dataset.data
-    if(balancear):
-        data = balancear_dataset(data)
-    classes = ['yes','no']
-    estruturas = {'Unigrama': dataset.dicUnigrama,'Bigrama': dataset.dicBigrama}
-    nova_data = data
-    for classe in classes:
-        for key,value in estruturas.iteritems():
-            conjunto = data[data.Classificacao == classe][key]
-            for indice, frase in conjunto.iteritems():
-                features = {}
-                for word in value:
-                    try:
-                        if word in frase:
-                            features["{}".format(word.encode('utf-8'))] = True
-                    except Exception as inst:
-                        print(inst)
-                        continue
-                if(len(features) > 0):
-                    featureset[key].append((features,classe,indice))
-                else:
-                    try:
-                        nova_data = nova_data.drop(indice)
-                    except:
-                        continue
-    dataset.setFeatureset(featureset)
-    dataset.setData(nova_data)
-    return dataset
-
-def unique(lista):
-    return list(dict.fromkeys(lista))
 
 def cross_validation(featureset,k,tamanhos,dataAugmentation):
     soma = 0
@@ -246,7 +141,6 @@ def cross_validation(featureset,k,tamanhos,dataAugmentation):
         for features in featuresetComIndice:
             indicesDoBalanceamento.append(features[2])
             featureset.append(features[:2])
-    cont = 0
     for train, test in kf.split(featureset):
         qtdNegativos = tamanhos['qtdNegativos']
         refsets = collections.defaultdict(set)
@@ -269,17 +163,9 @@ def cross_validation(featureset,k,tamanhos,dataAugmentation):
             testsets[observed].add(i)
         fmeasurePositivo = f_measure(refsets['no'], testsets['no'])
         fmeasureNegativo = f_measure(refsets['yes'], testsets['yes'])
-        # print("Positivo",fmeasurePositivo,tamanhos['qtdPositivos'])
-        # print("Negativo",fmeasureNegativo,qtdNegativos)
-        # print("prox")
         if(not fmeasurePositivo or not fmeasureNegativo):
             continue
         fmeasurePonderadoMedia.append(((fmeasurePositivo*tamanhos['qtdPositivos'])+(fmeasureNegativo*qtdNegativos))/(qtdNegativos+tamanhos['qtdPositivos']))
-        cont += 1
-    # average = soma/10
-    # print(average)
-        # fmeasurePositivoMedia = 2 * (precisionPositivoMedia*recallPositivoMedia)/(precisionPositivoMedia+recallPositivoMedia)
-        # fmeasureNegativoMedia = 2 * (precisionNegativoMedia*recallNegativoMedia)/(precisionNegativoMedia+recallNegativoMedia)
     # print(cont)
     fmeasurePonderado = np.mean(fmeasurePonderadoMedia)
     print(fmeasurePonderado)
@@ -309,85 +195,17 @@ def classifica(nome_dataset,frasesNegativas,configuracao):
     featureset = dataset.getFeatureset()
     tamanhos = conta_positivos_e_negativos(featureset)
     dataAugmentation['dataset'] = dataset
-    print dataset.name
-    print configuracao
+    print(dataset.name)
+    print(configuracao)
     for ngrama in featureset:
         dataAugmentation['tipo'] = ngrama
         if(not dataAugmentation['oversampling']):
             features = [f[:2] for f in featureset[ngrama]]
         else:
             features = featureset[ngrama]
-        print ngrama
+        print(ngrama)
         cross_validation(features, 10, tamanhos[ngrama],dataAugmentation)
         # mostInf = classifier.show_most_informative_features(10)
- 
-
-def information_gain(dataset):
-    frequenciaUnigrama = nltk.FreqDist()
-    condicionalUnigrama = nltk.ConditionalFreqDist()
-    dicionarioUnigrama = []
-
-    frequenciaBigrama = nltk.FreqDist()
-    condicionalBigrama = nltk.ConditionalFreqDist()
-    dicionarioBigrama = []
-    data = dataset.data
-    for frase in data[data.Classificacao == 'no']['Unigrama']:
-        for word in frase:
-            frequenciaUnigrama[word.lower()] += 1
-            condicionalUnigrama['pos'][word.lower()] += 1
-
-    for frase in data[data.Classificacao == 'no']['Bigrama']:
-        for word in frase:
-            frequenciaBigrama[word.lower()] += 1
-            condicionalBigrama['pos'][word.lower()] += 1
-        
-    for frase in data[data.Classificacao == 'yes']['Unigrama']:
-        for word in frase:
-            frequenciaUnigrama[word.lower()] += 1
-            condicionalUnigrama['neg'][word.lower()] += 1
-
-    for frase in data[data.Classificacao == 'yes']['Bigrama']:
-        for word in frase:
-            frequenciaBigrama[word.lower()] += 1
-            condicionalBigrama['neg'][word.lower()] += 1
-    pos_word_count_unigrama = condicionalUnigrama['pos'].N()
-    pos_word_count_bigrama = condicionalBigrama['pos'].N()
-    neg_word_count_unigrama = condicionalUnigrama['neg'].N()
-    neg_word_count_bigrama = condicionalBigrama['neg'].N()
-    total_word_count_unigrama = pos_word_count_unigrama + neg_word_count_unigrama
-    total_word_count_bigrama = pos_word_count_bigrama + neg_word_count_bigrama
-
-    word_scores_unigrama = {}
-    word_scores_bigrama = {} 
-
-    for word, freq in frequenciaUnigrama.iteritems():
-        pos_score = BigramAssocMeasures.chi_sq(condicionalUnigrama['pos'][word],
-            (freq, pos_word_count_unigrama), total_word_count_unigrama)
-        neg_score = BigramAssocMeasures.chi_sq(condicionalUnigrama['neg'][word],
-            (freq, neg_word_count_unigrama), total_word_count_unigrama)
-        word_scores_unigrama[word] = pos_score + neg_score
-
-    for word, freq in frequenciaBigrama.iteritems():
-        pos_score = BigramAssocMeasures.chi_sq(condicionalBigrama['pos'][word],
-            (freq, pos_word_count_bigrama), total_word_count_bigrama)
-        neg_score = BigramAssocMeasures.chi_sq(condicionalBigrama['neg'][word],
-            (freq, neg_word_count_bigrama), total_word_count_bigrama)
-        word_scores_bigrama[word] = pos_score + neg_score
-    if(dataset.name == 'OffComBR3'):
-        tamUni = 122
-        tamBig = 103
-    elif(dataset.name == 'OffComBR2'):
-        tamUni = 250
-        tamBig = 426
-    bestUnigrama = sorted(word_scores_unigrama.iteritems(), key=lambda (w,s): s, reverse=True)[:tamUni]
-    bestBigrama = sorted(word_scores_bigrama.iteritems(), key=lambda (w,s): s, reverse=True)[:tamBig]
-    dicionarioUnigrama = [w for w, s in bestUnigrama]
-    dicionarioBigrama = [w for w, s in bestBigrama]
-
-    dataset.dicUnigrama = dicionarioUnigrama
-    dataset.dicBigrama = dicionarioBigrama
-    dataset = extraiFeatures(dataset)
-    return dataset
 
 class Dataset:
     def __init__(self,dataset,name):
@@ -426,10 +244,10 @@ class Dataset:
     def setData(self,data):
         self.data = data
 
-    def gera_unigramas_e_bigramas(self, radical, temStopwords=False):
+    def gera_unigramas_e_bigramas(self, radical):
         indices = []
         for i,frase in self.negativo.iteritems():
-            unigramas = [term for term in preprocess(remover_acentos(frase.lower().encode('utf-8')),radical,False) if term not in stop and len(term) > 1]
+            unigramas = [term for term in preprocess(frase.lower().encode('utf-8'),radical) if term not in stop and len(term) > 1]
             bigrama = list(nltk.bigrams(unigramas))
             bigramas = [' '.join(item) for item in bigrama]
             bigramas.extend(unigramas)
@@ -441,10 +259,7 @@ class Dataset:
                 self.indicesNegativos.append(i)
 
         for i,frase in self.positivo.iteritems():
-            if(temStopwords):
-                unigramas = [term for term in preprocess(remover_acentos(frase.lower().encode('utf-8')),radical,True)]
-            else:
-                unigramas = [term for term in preprocess(remover_acentos(frase.lower().encode('utf-8')),radical,False) if term not in stop and len(term) > 1]
+            unigramas = [term for term in preprocess(frase.lower().encode('utf-8'),radical) if term not in stop and len(term) > 1]
             bigrama = list(nltk.bigrams(unigramas))
             bigramas = [' '.join(item) for item in bigrama]
             bigramas.extend(unigramas)
@@ -547,5 +362,5 @@ def main():
                         frasesNegativas = [frases[:-1] for frases in data]
             classifica(dataset, frasesNegativas,conf)
 
-stemmer=nltk.stem.RSLPStemmer()
-main()
+if __name__ == '__main__':
+    main()
