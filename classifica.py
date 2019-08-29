@@ -70,8 +70,8 @@ def aumenta_dados(indices,ind_balanceado,dataAugmentation,train_data):
     dataset.dicBigrama = set(listaBigrama)
     if(feature_selection):
         dataset.data = pd.concat([data_antigo, dataset.data])
-        dataset = information_gain(dataset)
-    dataset = extraiFeatures(dataset)
+        dataset = seleciona_features(dataset)
+    dataset = extrai_features(dataset)
     features = dataset.getFeatureset()
     # print(features)
     tipo = dataAugmentation['tipo']
@@ -189,9 +189,9 @@ def classifica(nome_dataset,frasesNegativas,configuracao):
     if (ig):
         if(balanceado):
             dataset.data = balancear_dataset(dataset.data)
-        dataset = information_gain(dataset)
+        dataset = seleciona_features(dataset)
     else:
-        dataset = extraiFeatures(dataset, balanceado)
+        dataset = extrai_features(dataset, balanceado)
     featureset = dataset.getFeatureset()
     tamanhos = conta_positivos_e_negativos(featureset)
     dataAugmentation['dataset'] = dataset

@@ -15,7 +15,7 @@ def balancear_dataset(dataset):
     negativos = shuffle(negativos)
     return positivos[:tam].append(negativos[:tam])
 
-def extraiFeatures(dataset,balancear=False):
+def extrai_features(dataset,balancear=False):
     featureset = {}
     featureset['Unigrama'] = []
     featureset['Bigrama'] = []
@@ -41,7 +41,7 @@ def extraiFeatures(dataset,balancear=False):
     dataset.setData(nova_data)
     return dataset
 
-def information_gain(dataset):
+def seleciona_features(dataset):
     frequenciaUnigrama = nltk.FreqDist()
     condicionalUnigrama = nltk.ConditionalFreqDist()
     dicionarioUnigrama = []
@@ -106,5 +106,5 @@ def information_gain(dataset):
 
     dataset.dicUnigrama = dicionarioUnigrama
     dataset.dicBigrama = dicionarioBigrama
-    dataset = extraiFeatures(dataset)
+    dataset = extrai_features(dataset)
     return dataset
